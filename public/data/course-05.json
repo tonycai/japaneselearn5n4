@@ -1,0 +1,427 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 5,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "いま (今)",
+      "romaji": "ima",
+      "translation": "现在",
+      "exampleSentence": "今は3時です。"
+    },
+    {
+      "id": 2,
+      "japanese": "せんしゅう (先週)",
+      "romaji": "senshuu",
+      "translation": "上周",
+      "exampleSentence": "先週は忙しかったです。"
+    },
+    {
+      "id": 3,
+      "japanese": "らいしゅう (来週)",
+      "romaji": "raishuu",
+      "translation": "下周",
+      "exampleSentence": "来週は試験があります。"
+    },
+    {
+      "id": 4,
+      "japanese": "さらいしゅう (さ来週)",
+      "romaji": "saraishuu",
+      "translation": "下下周",
+      "exampleSentence": "さ来週に出張します。"
+    },
+    {
+      "id": 5,
+      "japanese": "こんしゅう (今週)",
+      "romaji": "konshuu",
+      "translation": "本周",
+      "exampleSentence": "今週は暇です。"
+    },
+    {
+      "id": 6,
+      "japanese": "きのう (昨日)",
+      "romaji": "kinou",
+      "translation": "昨天",
+      "exampleSentence": "昨日は雨でした。"
+    },
+    {
+      "id": 7,
+      "japanese": "あした (明日)",
+      "romaji": "ashita",
+      "translation": "明天",
+      "exampleSentence": "明日は休みです。"
+    },
+    {
+      "id": 8,
+      "japanese": "あさって",
+      "romaji": "asatte",
+      "translation": "后天",
+      "exampleSentence": "あさって東京に行きます。"
+    },
+    {
+      "id": 9,
+      "japanese": "おととい",
+      "romaji": "ototoi",
+      "translation": "前天",
+      "exampleSentence": "おとといは仕事でした。"
+    },
+    {
+      "id": 10,
+      "japanese": "まいにち (毎日)",
+      "romaji": "mainichi",
+      "translation": "每天",
+      "exampleSentence": "毎日勉強します。"
+    },
+    {
+      "id": 11,
+      "japanese": "まいあさ (毎朝)",
+      "romaji": "maiasa",
+      "translation": "每天早上",
+      "exampleSentence": "毎朝6時に起きます。"
+    },
+    {
+      "id": 12,
+      "japanese": "まいばん (毎晩)",
+      "romaji": "maiban",
+      "translation": "每天晚上",
+      "exampleSentence": "毎晩本を読みます。"
+    },
+    {
+      "id": 13,
+      "japanese": "まいしゅう (毎週)",
+      "romaji": "maishuu",
+      "translation": "每周",
+      "exampleSentence": "毎週日曜日に会います。"
+    },
+    {
+      "id": 14,
+      "japanese": "ごぜん (午前)/エーエム (am)",
+      "romaji": "gozen/am",
+      "translation": "上午",
+      "exampleSentence": "午前10時に会議があります。"
+    },
+    {
+      "id": 15,
+      "japanese": "ごご (午後)/ピーエム (pm)",
+      "romaji": "gogo/pm",
+      "translation": "下午",
+      "exampleSentence": "午後に友達と会います。"
+    },
+    {
+      "id": 16,
+      "japanese": "にちようび (日曜日)",
+      "romaji": "nichiyoubi",
+      "translation": "星期天",
+      "exampleSentence": "日曜日は休みです。"
+    },
+    {
+      "id": 17,
+      "japanese": "げつようび (月曜日)",
+      "romaji": "getsuyoubi",
+      "translation": "星期一",
+      "exampleSentence": "月曜日から仕事です。"
+    },
+    {
+      "id": 18,
+      "japanese": "かようび (火曜日)",
+      "romaji": "kayoubi",
+      "translation": "星期二",
+      "exampleSentence": "火曜日に会議があります。"
+    },
+    {
+      "id": 19,
+      "japanese": "すいようび (水曜日)",
+      "romaji": "suiyoubi",
+      "translation": "星期三",
+      "exampleSentence": "水曜日は忙しいです。"
+    },
+    {
+      "id": 20,
+      "japanese": "もくようび (木曜日)",
+      "romaji": "mokuyoubi",
+      "translation": "星期四",
+      "exampleSentence": "木曜日に買い物をします。"
+    },
+    {
+      "id": 21,
+      "japanese": "きんようび (金曜日)",
+      "romaji": "kin'youbi",
+      "translation": "星期五",
+      "exampleSentence": "金曜日は飲み会です。"
+    },
+    {
+      "id": 22,
+      "japanese": "どようび (土曜日)",
+      "romaji": "doyoubi",
+      "translation": "星期六",
+      "exampleSentence": "土曜日に遊びます。"
+    },
+    {
+      "id": 23,
+      "japanese": "けさ (今朝)",
+      "romaji": "kesa",
+      "translation": "今天早上",
+      "exampleSentence": "今朝は7時に起きました。"
+    },
+    {
+      "id": 24,
+      "japanese": "こんばん (今晩)",
+      "romaji": "konban",
+      "translation": "今天晚上",
+      "exampleSentence": "今晩は暇です。"
+    },
+    {
+      "id": 25,
+      "japanese": "らいねん (来年)",
+      "romaji": "rainen",
+      "translation": "明年",
+      "exampleSentence": "来年日本に行きます。"
+    },
+    {
+      "id": 26,
+      "japanese": "きょねん (去年)",
+      "romaji": "kyonen",
+      "translation": "去年",
+      "exampleSentence": "去年は忙しかったです。"
+    },
+    {
+      "id": 27,
+      "japanese": "よる (夜)",
+      "romaji": "yoru",
+      "translation": "夜晚",
+      "exampleSentence": "夜に勉強します。"
+    },
+    {
+      "id": 28,
+      "japanese": "ばん (晩)",
+      "romaji": "ban",
+      "translation": "晚上",
+      "exampleSentence": "晩ご飯を食べます。"
+    },
+    {
+      "id": 29,
+      "japanese": "あさ (朝)",
+      "romaji": "asa",
+      "translation": "早上/早晨",
+      "exampleSentence": "朝ご飯を食べます。"
+    },
+    {
+      "id": 30,
+      "japanese": "がっこう (学校)",
+      "romaji": "gakkou",
+      "translation": "学校",
+      "exampleSentence": "学校に行きます。"
+    },
+    {
+      "id": 31,
+      "japanese": "しけん (試験)",
+      "romaji": "shiken",
+      "translation": "考试",
+      "exampleSentence": "試験は来週です。"
+    },
+    {
+      "id": 32,
+      "japanese": "しごと (仕事)",
+      "romaji": "shigoto",
+      "translation": "工作",
+      "exampleSentence": "仕事は9時から5時までです。"
+    },
+    {
+      "id": 33,
+      "japanese": "ちこく (遅刻)",
+      "romaji": "chikoku",
+      "translation": "迟到",
+      "exampleSentence": "遅刻しました。"
+    },
+    {
+      "id": 34,
+      "japanese": "やすみ (休み)",
+      "romaji": "yasumi",
+      "translation": "休息/休假",
+      "exampleSentence": "明日は休みです。"
+    },
+    {
+      "id": 35,
+      "japanese": "しゅっちょう (出張)",
+      "romaji": "shucchou",
+      "translation": "出差",
+      "exampleSentence": "来週出張に行きます。"
+    },
+    {
+      "id": 36,
+      "japanese": "けんしゅう (研修)",
+      "romaji": "kenshuu",
+      "translation": "培训/研修",
+      "exampleSentence": "研修は3日間です。"
+    },
+    {
+      "id": 37,
+      "japanese": "りょこう (旅行)",
+      "romaji": "ryokou",
+      "translation": "旅行",
+      "exampleSentence": "夏休みに旅行します。"
+    },
+    {
+      "id": 38,
+      "japanese": "てんらんかい (展覧会)",
+      "romaji": "tenrankai",
+      "translation": "展览会",
+      "exampleSentence": "展覧会に行きました。"
+    },
+    {
+      "id": 39,
+      "japanese": "かんげいかい (歓迎会)",
+      "romaji": "kangeikai",
+      "translation": "欢迎会",
+      "exampleSentence": "歓迎会は金曜日です。"
+    },
+    {
+      "id": 40,
+      "japanese": "パーティー",
+      "romaji": "paatii",
+      "translation": "聚会/派对",
+      "exampleSentence": "パーティーに行きます。"
+    },
+    {
+      "id": 41,
+      "japanese": "おたく (お宅)",
+      "romaji": "otaku",
+      "translation": "您的家(敬语)",
+      "exampleSentence": "お宅はどこですか。"
+    },
+    {
+      "id": 42,
+      "japanese": "いつ",
+      "romaji": "itsu",
+      "translation": "什么时候",
+      "exampleSentence": "いつ行きますか。"
+    },
+    {
+      "id": 43,
+      "japanese": "やすみます (休みます)",
+      "romaji": "yasumimasu",
+      "translation": "休息",
+      "exampleSentence": "明日休みます。"
+    },
+    {
+      "id": 44,
+      "japanese": "はたらきます (働きます)",
+      "romaji": "hatarakimasu",
+      "translation": "工作",
+      "exampleSentence": "会社で働きます。"
+    },
+    {
+      "id": 45,
+      "japanese": "はじまります (始まります)",
+      "romaji": "hajimarimasu",
+      "translation": "开始",
+      "exampleSentence": "会議は9時に始まります。"
+    },
+    {
+      "id": 46,
+      "japanese": "おわります (終わります)",
+      "romaji": "owarimasu",
+      "translation": "结束",
+      "exampleSentence": "仕事は5時に終わります。"
+    },
+    {
+      "id": 47,
+      "japanese": "おきます (起きます)",
+      "romaji": "okimasu",
+      "translation": "起床",
+      "exampleSentence": "毎朝6時に起きます。"
+    },
+    {
+      "id": 48,
+      "japanese": "ねます (寝ます)",
+      "romaji": "nemasu",
+      "translation": "睡觉",
+      "exampleSentence": "11時に寝ます。"
+    },
+    {
+      "id": 49,
+      "japanese": "べんきょうします (勉強～)",
+      "romaji": "benkyou shimasu",
+      "translation": "学习",
+      "exampleSentence": "毎日日本語を勉強します。"
+    },
+    {
+      "id": 50,
+      "japanese": "いつも",
+      "romaji": "itsumo",
+      "translation": "总是/经常",
+      "exampleSentence": "いつも7時に起きます。"
+    },
+    {
+      "id": 51,
+      "japanese": "ペキンししゃ (北京支社)",
+      "romaji": "pekin shisha",
+      "translation": "北京分公司",
+      "exampleSentence": "北京支社で働きます。"
+    },
+    {
+      "id": 52,
+      "japanese": "こうべ (神戸)",
+      "romaji": "koube",
+      "translation": "神户",
+      "exampleSentence": "神戸に行きました。"
+    },
+    {
+      "id": 53,
+      "japanese": "おはよう",
+      "romaji": "ohayou",
+      "translation": "早上好",
+      "exampleSentence": "おはようございます。"
+    },
+    {
+      "id": 54,
+      "japanese": "～じ (～時)",
+      "romaji": "~ji",
+      "translation": "~点(钟)",
+      "exampleSentence": "9時に会いましょう。"
+    },
+    {
+      "id": 55,
+      "japanese": "～ふん (～分)",
+      "romaji": "~fun",
+      "translation": "~分(钟)",
+      "exampleSentence": "30分かかります。"
+    },
+    {
+      "id": 56,
+      "japanese": "～はん (～半)",
+      "romaji": "~han",
+      "translation": "~点半",
+      "exampleSentence": "7時半に起きます。"
+    },
+    {
+      "id": 57,
+      "japanese": "～ようび (～曜日)",
+      "romaji": "~youbi",
+      "translation": "星期~",
+      "exampleSentence": "何曜日ですか。"
+    },
+    {
+      "id": 58,
+      "japanese": "～から",
+      "romaji": "~kara",
+      "translation": "从~",
+      "exampleSentence": "9時から会議です。"
+    },
+    {
+      "id": 59,
+      "japanese": "～まで",
+      "romaji": "~made",
+      "translation": "到~",
+      "exampleSentence": "5時まで働きます。"
+    },
+    {
+      "id": 60,
+      "japanese": "～ごろ",
+      "romaji": "~goro",
+      "translation": "~左右/大约~",
+      "exampleSentence": "3時ごろに来ます。"
+    }
+  ]
+}

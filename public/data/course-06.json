@@ -1,0 +1,406 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 6,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "れっしゃ (列車)",
+      "romaji": "ressha",
+      "translation": "列车",
+      "exampleSentence": "列車で京都に行きます。"
+    },
+    {
+      "id": 2,
+      "japanese": "こうそくバス (高速～)",
+      "romaji": "kousoku basu",
+      "translation": "高速巴士",
+      "exampleSentence": "高速バスで大阪に行きます。"
+    },
+    {
+      "id": 3,
+      "japanese": "しんかんせん (新幹線)",
+      "romaji": "shinkansen",
+      "translation": "新干线",
+      "exampleSentence": "新幹線は速いです。"
+    },
+    {
+      "id": 4,
+      "japanese": "じどうしゃ (自動車)",
+      "romaji": "jidousha",
+      "translation": "汽车",
+      "exampleSentence": "自動車で行きます。"
+    },
+    {
+      "id": 5,
+      "japanese": "ひこうき (飛行機)",
+      "romaji": "hikouki",
+      "translation": "飞机",
+      "exampleSentence": "飛行機で中国に行きます。"
+    },
+    {
+      "id": 6,
+      "japanese": "フェリー",
+      "romaji": "ferii",
+      "translation": "渡轮/轮渡",
+      "exampleSentence": "フェリーで北海道に行きます。"
+    },
+    {
+      "id": 7,
+      "japanese": "ふね (船)",
+      "romaji": "fune",
+      "translation": "船",
+      "exampleSentence": "船で旅行します。"
+    },
+    {
+      "id": 8,
+      "japanese": "でんしゃ (電車)",
+      "romaji": "densha",
+      "translation": "电车",
+      "exampleSentence": "電車で会社に行きます。"
+    },
+    {
+      "id": 9,
+      "japanese": "こうきょうバス (公共～)",
+      "romaji": "koukyou basu",
+      "translation": "公交车",
+      "exampleSentence": "公共バスに乗ります。"
+    },
+    {
+      "id": 10,
+      "japanese": "タクシー",
+      "romaji": "takushii",
+      "translation": "出租车",
+      "exampleSentence": "タクシーで帰ります。"
+    },
+    {
+      "id": 11,
+      "japanese": "びじゅつかん (美術館)",
+      "romaji": "bijutsukan",
+      "translation": "美术馆",
+      "exampleSentence": "美術館で絵を見ます。"
+    },
+    {
+      "id": 12,
+      "japanese": "プール",
+      "romaji": "puuru",
+      "translation": "游泳池",
+      "exampleSentence": "プールで泳ぎます。"
+    },
+    {
+      "id": 13,
+      "japanese": "ともだち (友達)",
+      "romaji": "tomodachi",
+      "translation": "朋友",
+      "exampleSentence": "友達と遊びます。"
+    },
+    {
+      "id": 14,
+      "japanese": "おとうと (弟)",
+      "romaji": "otouto",
+      "translation": "弟弟",
+      "exampleSentence": "弟は高校生です。"
+    },
+    {
+      "id": 15,
+      "japanese": "ちち (父)",
+      "romaji": "chichi",
+      "translation": "父亲(自己的)",
+      "exampleSentence": "父は会社員です。"
+    },
+    {
+      "id": 16,
+      "japanese": "らいげつ (来月)",
+      "romaji": "raigetsu",
+      "translation": "下个月",
+      "exampleSentence": "来月日本に行きます。"
+    },
+    {
+      "id": 17,
+      "japanese": "せんげつ (先月)",
+      "romaji": "sengetsu",
+      "translation": "上个月",
+      "exampleSentence": "先月は忙しかったです。"
+    },
+    {
+      "id": 18,
+      "japanese": "らいねん (来年)",
+      "romaji": "rainen",
+      "translation": "明年",
+      "exampleSentence": "来年日本に行きます。"
+    },
+    {
+      "id": 19,
+      "japanese": "きょねん (去年)",
+      "romaji": "kyonen",
+      "translation": "去年",
+      "exampleSentence": "去年は忙しかったです。"
+    },
+    {
+      "id": 20,
+      "japanese": "たんじょうび (誕生日)",
+      "romaji": "tanjoubi",
+      "translation": "生日",
+      "exampleSentence": "誕生日おめでとう。"
+    },
+    {
+      "id": 21,
+      "japanese": "こどものひ (子供の日)",
+      "romaji": "kodomo no hi",
+      "translation": "儿童节",
+      "exampleSentence": "子供の日は5月5日です。"
+    },
+    {
+      "id": 22,
+      "japanese": "クリスマス",
+      "romaji": "kurisumasu",
+      "translation": "圣诞节",
+      "exampleSentence": "クリスマスにパーティーをします。"
+    },
+    {
+      "id": 23,
+      "japanese": "こうつうきかん (交通機関)",
+      "romaji": "koutsuukikan",
+      "translation": "交通工具",
+      "exampleSentence": "交通機関は便利です。"
+    },
+    {
+      "id": 24,
+      "japanese": "うち",
+      "romaji": "uchi",
+      "translation": "家/家里",
+      "exampleSentence": "うちで休みます。"
+    },
+    {
+      "id": 25,
+      "japanese": "アパート",
+      "romaji": "apaato",
+      "translation": "公寓",
+      "exampleSentence": "アパートに住んでいます。"
+    },
+    {
+      "id": 26,
+      "japanese": "いえ (家)",
+      "romaji": "ie",
+      "translation": "家",
+      "exampleSentence": "私の家は駅の近くです。"
+    },
+    {
+      "id": 27,
+      "japanese": "いっしょに (一緒に)",
+      "romaji": "issho ni",
+      "translation": "一起",
+      "exampleSentence": "一緒に行きましょう。"
+    },
+    {
+      "id": 28,
+      "japanese": "たしか (確か)",
+      "romaji": "tashika",
+      "translation": "确实/好像",
+      "exampleSentence": "確か明日でした。"
+    },
+    {
+      "id": 29,
+      "japanese": "おつかれさまでした (お疲れ様でした)",
+      "romaji": "otsukare sama deshita",
+      "translation": "辛苦了",
+      "exampleSentence": "お疲れ様でした。"
+    },
+    {
+      "id": 30,
+      "japanese": "おさきにしつれいします (お先に失礼します)",
+      "romaji": "osaki ni shitsurei shimasu",
+      "translation": "我先告辞了",
+      "exampleSentence": "お先に失礼します。"
+    },
+    {
+      "id": 31,
+      "japanese": "あるいて (歩いて)",
+      "romaji": "aruite",
+      "translation": "步行/走着",
+      "exampleSentence": "歩いて行きます。"
+    },
+    {
+      "id": 32,
+      "japanese": "いきます (行きます)",
+      "romaji": "ikimasu",
+      "translation": "去/走",
+      "exampleSentence": "学校に行きます。"
+    },
+    {
+      "id": 33,
+      "japanese": "かえります (帰ります)",
+      "romaji": "kaerimasu",
+      "translation": "回去/回家",
+      "exampleSentence": "6時に帰ります。"
+    },
+    {
+      "id": 34,
+      "japanese": "きます (来ます)",
+      "romaji": "kimasu",
+      "translation": "来",
+      "exampleSentence": "明日来ます。"
+    },
+    {
+      "id": 35,
+      "japanese": "タイ",
+      "romaji": "tai",
+      "translation": "泰国",
+      "exampleSentence": "タイに行きました。"
+    },
+    {
+      "id": 36,
+      "japanese": "アメリカ",
+      "romaji": "amerika",
+      "translation": "美国",
+      "exampleSentence": "アメリカは大きいです。"
+    },
+    {
+      "id": 37,
+      "japanese": "ちゅうごく (中国)",
+      "romaji": "chuugoku",
+      "translation": "中国",
+      "exampleSentence": "中国に行きたいです。"
+    },
+    {
+      "id": 38,
+      "japanese": "かんこく (韓国)",
+      "romaji": "kankoku",
+      "translation": "韩国",
+      "exampleSentence": "韓国の友達がいます。"
+    },
+    {
+      "id": 39,
+      "japanese": "フランス",
+      "romaji": "furansu",
+      "translation": "法国",
+      "exampleSentence": "フランスに留学しました。"
+    },
+    {
+      "id": 40,
+      "japanese": "ひろしま (広島)",
+      "romaji": "hiroshima",
+      "translation": "广岛",
+      "exampleSentence": "広島は平和な街です。"
+    },
+    {
+      "id": 41,
+      "japanese": "きょうと (京都)",
+      "romaji": "kyouto",
+      "translation": "京都",
+      "exampleSentence": "京都に寺があります。"
+    },
+    {
+      "id": 42,
+      "japanese": "ほっかいどう (北海道)",
+      "romaji": "hokkaidou",
+      "translation": "北海道",
+      "exampleSentence": "北海道は寒いです。"
+    },
+    {
+      "id": 43,
+      "japanese": "シャンハイ (上海)",
+      "romaji": "shanhai",
+      "translation": "上海",
+      "exampleSentence": "上海は中国の都市です。"
+    },
+    {
+      "id": 44,
+      "japanese": "おおさか (大阪)",
+      "romaji": "oosaka",
+      "translation": "大阪",
+      "exampleSentence": "大阪は大きい都市です。"
+    },
+    {
+      "id": 45,
+      "japanese": "ペキン (北京)",
+      "romaji": "pekin",
+      "translation": "北京",
+      "exampleSentence": "北京は中国の首都です。"
+    },
+    {
+      "id": 46,
+      "japanese": "なごや (名古屋)",
+      "romaji": "nagoya",
+      "translation": "名古屋",
+      "exampleSentence": "名古屋は愛知県にあります。"
+    },
+    {
+      "id": 47,
+      "japanese": "しぶや (渋谷)",
+      "romaji": "shibuya",
+      "translation": "涩谷",
+      "exampleSentence": "渋谷で買い物をします。"
+    },
+    {
+      "id": 48,
+      "japanese": "しんじゅく (新宿)",
+      "romaji": "shinjuku",
+      "translation": "新宿",
+      "exampleSentence": "新宿は賑やかです。"
+    },
+    {
+      "id": 49,
+      "japanese": "ぎんざ (銀座)",
+      "romaji": "ginza",
+      "translation": "银座",
+      "exampleSentence": "銀座に行きます。"
+    },
+    {
+      "id": 50,
+      "japanese": "とうきょう (東京)",
+      "romaji": "toukyou",
+      "translation": "东京",
+      "exampleSentence": "東京は日本の首都です。"
+    },
+    {
+      "id": 51,
+      "japanese": "よなか (夜中)",
+      "romaji": "yonaka",
+      "translation": "半夜/深夜",
+      "exampleSentence": "夜中まで勉強しました。"
+    },
+    {
+      "id": 52,
+      "japanese": "ゆうべ",
+      "romaji": "yuube",
+      "translation": "昨晚",
+      "exampleSentence": "ゆうべは眠れませんでした。"
+    },
+    {
+      "id": 53,
+      "japanese": "なんがつ (何月)",
+      "romaji": "nangatsu",
+      "translation": "几月",
+      "exampleSentence": "誕生日は何月ですか。"
+    },
+    {
+      "id": 54,
+      "japanese": "なんにち (何日)",
+      "romaji": "nannichi",
+      "translation": "几号/几天",
+      "exampleSentence": "何日に行きますか。"
+    },
+    {
+      "id": 55,
+      "japanese": "～がつ (～月)",
+      "romaji": "~gatsu",
+      "translation": "~月",
+      "exampleSentence": "5月に行きます。"
+    },
+    {
+      "id": 56,
+      "japanese": "～にち (～日)",
+      "romaji": "~nichi",
+      "translation": "~号/~天",
+      "exampleSentence": "10日に会議があります。"
+    },
+    {
+      "id": 57,
+      "japanese": "～たち (～達)",
+      "romaji": "~tachi",
+      "translation": "~们(复数)",
+      "exampleSentence": "友達と遊びます。"
+    }
+  ]
+}

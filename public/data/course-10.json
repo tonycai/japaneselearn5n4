@@ -1,0 +1,469 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 10,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "こうよう (紅葉)",
+      "romaji": "kouyou",
+      "translation": "红叶",
+      "exampleSentence": "紅葉がきれいです。"
+    },
+    {
+      "id": 2,
+      "japanese": "きせつ (季節)",
+      "romaji": "kisetsu",
+      "translation": "季节",
+      "exampleSentence": "どの季節が好きですか。"
+    },
+    {
+      "id": 3,
+      "japanese": "はる (春)",
+      "romaji": "haru",
+      "translation": "春天",
+      "exampleSentence": "春は暖かいです。"
+    },
+    {
+      "id": 4,
+      "japanese": "なつ (夏)",
+      "romaji": "natsu",
+      "translation": "夏天",
+      "exampleSentence": "夏は暑いです。"
+    },
+    {
+      "id": 5,
+      "japanese": "あき (秋)",
+      "romaji": "aki",
+      "translation": "秋天",
+      "exampleSentence": "秋は涼しいです。"
+    },
+    {
+      "id": 6,
+      "japanese": "ふゆ (冬)",
+      "romaji": "fuyu",
+      "translation": "冬天",
+      "exampleSentence": "冬は寒いです。"
+    },
+    {
+      "id": 7,
+      "japanese": "てんき (天気)",
+      "romaji": "tenki",
+      "translation": "天气",
+      "exampleSentence": "今日は天気がいいです。"
+    },
+    {
+      "id": 8,
+      "japanese": "あめ (雨)",
+      "romaji": "ame",
+      "translation": "雨",
+      "exampleSentence": "雨が降ります。"
+    },
+    {
+      "id": 9,
+      "japanese": "ゆき (雪)",
+      "romaji": "yuki",
+      "translation": "雪",
+      "exampleSentence": "雪が降ります。"
+    },
+    {
+      "id": 10,
+      "japanese": "くもり (曇り)",
+      "romaji": "kumori",
+      "translation": "阴天",
+      "exampleSentence": "今日は曇りです。"
+    },
+    {
+      "id": 11,
+      "japanese": "おまつり (お祭り)",
+      "romaji": "omatsuri",
+      "translation": "祭祀/庙会",
+      "exampleSentence": "お祭りに行きます。"
+    },
+    {
+      "id": 12,
+      "japanese": "ふじさん (富士山)",
+      "romaji": "fujisan",
+      "translation": "富士山",
+      "exampleSentence": "富士山は有名です。"
+    },
+    {
+      "id": 13,
+      "japanese": "しゃしん (写真)",
+      "romaji": "shashin",
+      "translation": "照片",
+      "exampleSentence": "写真を撮ります。"
+    },
+    {
+      "id": 14,
+      "japanese": "まち (町)",
+      "romaji": "machi",
+      "translation": "城镇/街道",
+      "exampleSentence": "この町はきれいです。"
+    },
+    {
+      "id": 15,
+      "japanese": "ところ (所)",
+      "romaji": "tokoro",
+      "translation": "地方/场所",
+      "exampleSentence": "いい所ですね。"
+    },
+    {
+      "id": 16,
+      "japanese": "りょう (寮)",
+      "romaji": "ryou",
+      "translation": "宿舍",
+      "exampleSentence": "寮に住んでいます。"
+    },
+    {
+      "id": 17,
+      "japanese": "べんきょう (勉強)",
+      "romaji": "benkyou",
+      "translation": "学习",
+      "exampleSentence": "勉強します。"
+    },
+    {
+      "id": 18,
+      "japanese": "せいかつ (生活)",
+      "romaji": "seikatsu",
+      "translation": "生活",
+      "exampleSentence": "生活は楽しいです。"
+    },
+    {
+      "id": 19,
+      "japanese": "しごと (仕事)",
+      "romaji": "shigoto",
+      "translation": "工作",
+      "exampleSentence": "仕事は9時から5時までです。"
+    },
+    {
+      "id": 20,
+      "japanese": "どんな",
+      "romaji": "donna",
+      "translation": "什么样的",
+      "exampleSentence": "どんな人ですか。"
+    },
+    {
+      "id": 21,
+      "japanese": "どう",
+      "romaji": "dou",
+      "translation": "怎么/如何",
+      "exampleSentence": "どうですか。"
+    },
+    {
+      "id": 22,
+      "japanese": "どのくらい",
+      "romaji": "dono kurai",
+      "translation": "多少/多久",
+      "exampleSentence": "どのくらいかかりますか。"
+    },
+    {
+      "id": 23,
+      "japanese": "どのぐらい",
+      "romaji": "dono gurai",
+      "translation": "多少/多久",
+      "exampleSentence": "どのぐらいかかりますか。"
+    },
+    {
+      "id": 24,
+      "japanese": "そして",
+      "romaji": "soshite",
+      "translation": "然后",
+      "exampleSentence": "そして、帰ります。"
+    },
+    {
+      "id": 25,
+      "japanese": "でも",
+      "romaji": "demo",
+      "translation": "但是/可是",
+      "exampleSentence": "でも、忙しいです。"
+    },
+    {
+      "id": 26,
+      "japanese": "おげんきですか (お元気ですか)",
+      "romaji": "ogenki desu ka",
+      "translation": "您好吗/身体好吗",
+      "exampleSentence": "お元気ですか。"
+    },
+    {
+      "id": 27,
+      "japanese": "そうですね",
+      "romaji": "sou desu ne",
+      "translation": "是呢/对呢",
+      "exampleSentence": "そうですね。"
+    },
+    {
+      "id": 28,
+      "japanese": "つかれました (疲れました)",
+      "romaji": "tsukaremashita",
+      "translation": "累了",
+      "exampleSentence": "疲れました。"
+    },
+    {
+      "id": 29,
+      "japanese": "～も",
+      "romaji": "~mo",
+      "translation": "也",
+      "exampleSentence": "私も学生です。"
+    },
+    {
+      "id": 30,
+      "japanese": "ゆうめい (有名)",
+      "romaji": "yuumei",
+      "translation": "有名",
+      "exampleSentence": "有名な場所です。"
+    },
+    {
+      "id": 31,
+      "japanese": "きれい",
+      "romaji": "kirei",
+      "translation": "漂亮/干净",
+      "exampleSentence": "きれいな花です。"
+    },
+    {
+      "id": 32,
+      "japanese": "しんせつ (親切)",
+      "romaji": "shinsetsu",
+      "translation": "亲切/热心",
+      "exampleSentence": "親切な人です。"
+    },
+    {
+      "id": 33,
+      "japanese": "げんき (元気)",
+      "romaji": "genki",
+      "translation": "精神/健康",
+      "exampleSentence": "元気です。"
+    },
+    {
+      "id": 34,
+      "japanese": "ひま (暇)",
+      "romaji": "hima",
+      "translation": "空闲",
+      "exampleSentence": "暇な時に映画を見ます。"
+    },
+    {
+      "id": 35,
+      "japanese": "にぎやか",
+      "romaji": "nigiyaka",
+      "translation": "热闹",
+      "exampleSentence": "賑やかな町です。"
+    },
+    {
+      "id": 36,
+      "japanese": "べんり (便利)",
+      "romaji": "benri",
+      "translation": "方便",
+      "exampleSentence": "便利な場所です。"
+    },
+    {
+      "id": 37,
+      "japanese": "いろいろ",
+      "romaji": "iroiro",
+      "translation": "各种各样",
+      "exampleSentence": "いろいろあります。"
+    },
+    {
+      "id": 38,
+      "japanese": "たいへん (大変)",
+      "romaji": "taihen",
+      "translation": "很/辛苦",
+      "exampleSentence": "大変です。"
+    },
+    {
+      "id": 39,
+      "japanese": "だいじょうぶ (大丈夫)",
+      "romaji": "daijoubu",
+      "translation": "没关系/不要紧",
+      "exampleSentence": "大丈夫です。"
+    },
+    {
+      "id": 40,
+      "japanese": "おおきい (大きい)",
+      "romaji": "ookii",
+      "translation": "大的",
+      "exampleSentence": "大きい家です。"
+    },
+    {
+      "id": 41,
+      "japanese": "ちいさい (小さい)",
+      "romaji": "chiisai",
+      "translation": "小的",
+      "exampleSentence": "小さい犬です。"
+    },
+    {
+      "id": 42,
+      "japanese": "あたらしい (新しい)",
+      "romaji": "atarashii",
+      "translation": "新的",
+      "exampleSentence": "新しい本です。"
+    },
+    {
+      "id": 43,
+      "japanese": "ふるい (古い)",
+      "romaji": "furui",
+      "translation": "旧的/老的",
+      "exampleSentence": "古い家です。"
+    },
+    {
+      "id": 44,
+      "japanese": "いい/よい",
+      "romaji": "ii/yoi",
+      "translation": "好的",
+      "exampleSentence": "いい天気です。"
+    },
+    {
+      "id": 45,
+      "japanese": "わるい (悪い)",
+      "romaji": "warui",
+      "translation": "坏的/不好的",
+      "exampleSentence": "悪い人です。"
+    },
+    {
+      "id": 46,
+      "japanese": "あつい (暑い、熱い)",
+      "romaji": "atsui",
+      "translation": "热的",
+      "exampleSentence": "今日は暑いです。"
+    },
+    {
+      "id": 47,
+      "japanese": "さむい (寒い)",
+      "romaji": "samui",
+      "translation": "冷的/寒冷的",
+      "exampleSentence": "今日は寒いです。"
+    },
+    {
+      "id": 48,
+      "japanese": "つめたい (冷たい)",
+      "romaji": "tsumetai",
+      "translation": "凉的/冰的",
+      "exampleSentence": "水が冷たいです。"
+    },
+    {
+      "id": 49,
+      "japanese": "むずかしい (難しい)",
+      "romaji": "muzukashii",
+      "translation": "难的",
+      "exampleSentence": "日本語は難しいです。"
+    },
+    {
+      "id": 50,
+      "japanese": "やさしい (易しい)",
+      "romaji": "yasashii",
+      "translation": "简单的",
+      "exampleSentence": "この問題は易しいです。"
+    },
+    {
+      "id": 51,
+      "japanese": "たかい (高い)",
+      "romaji": "takai",
+      "translation": "高的/贵的",
+      "exampleSentence": "高い山です。"
+    },
+    {
+      "id": 52,
+      "japanese": "やすい (安い)",
+      "romaji": "yasui",
+      "translation": "便宜的",
+      "exampleSentence": "安い本です。"
+    },
+    {
+      "id": 53,
+      "japanese": "ひくい (低い)",
+      "romaji": "hikui",
+      "translation": "低的",
+      "exampleSentence": "低い建物です。"
+    },
+    {
+      "id": 54,
+      "japanese": "おもしろい",
+      "romaji": "omoshiroi",
+      "translation": "有趣的",
+      "exampleSentence": "面白い映画です。"
+    },
+    {
+      "id": 55,
+      "japanese": "おいしい",
+      "romaji": "oishii",
+      "translation": "好吃的/美味的",
+      "exampleSentence": "おいしい料理です。"
+    },
+    {
+      "id": 56,
+      "japanese": "いそがしい (忙しい)",
+      "romaji": "isogashii",
+      "translation": "忙的",
+      "exampleSentence": "忙しいです。"
+    },
+    {
+      "id": 57,
+      "japanese": "たのしい (楽しい)",
+      "romaji": "tanoshii",
+      "translation": "快乐的/愉快的",
+      "exampleSentence": "楽しい生活です。"
+    },
+    {
+      "id": 58,
+      "japanese": "しろい (白い)",
+      "romaji": "shiroi",
+      "translation": "白色的",
+      "exampleSentence": "白い犬です。"
+    },
+    {
+      "id": 59,
+      "japanese": "くろい (黒い)",
+      "romaji": "kuroi",
+      "translation": "黑色的",
+      "exampleSentence": "黒い猫です。"
+    },
+    {
+      "id": 60,
+      "japanese": "あかい (赤い)",
+      "romaji": "akai",
+      "translation": "红色的",
+      "exampleSentence": "赤い花です。"
+    },
+    {
+      "id": 61,
+      "japanese": "あおい (青い)",
+      "romaji": "aoi",
+      "translation": "蓝色的",
+      "exampleSentence": "青い空です。"
+    },
+    {
+      "id": 62,
+      "japanese": "とても",
+      "romaji": "totemo",
+      "translation": "非常/很",
+      "exampleSentence": "とても暑いです。"
+    },
+    {
+      "id": 63,
+      "japanese": "あまり",
+      "romaji": "amari",
+      "translation": "不太/不怎么",
+      "exampleSentence": "あまり食べません。"
+    },
+    {
+      "id": 64,
+      "japanese": "きょうと (京都)",
+      "romaji": "kyouto",
+      "translation": "京都",
+      "exampleSentence": "京都に寺があります。"
+    },
+    {
+      "id": 65,
+      "japanese": "なら (奈良)",
+      "romaji": "nara",
+      "translation": "奈良",
+      "exampleSentence": "奈良に行きます。"
+    },
+    {
+      "id": 66,
+      "japanese": "はこね (箱根)",
+      "romaji": "hakone",
+      "translation": "箱根",
+      "exampleSentence": "箱根に行きます。"
+    }
+  ]
+}

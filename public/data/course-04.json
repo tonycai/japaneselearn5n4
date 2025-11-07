@@ -1,0 +1,357 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 4,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "へや (部屋)",
+      "romaji": "heya",
+      "translation": "房间",
+      "exampleSentence": "部屋はきれいです。"
+    },
+    {
+      "id": 2,
+      "japanese": "にわ (庭)",
+      "romaji": "niwa",
+      "translation": "院子/庭院",
+      "exampleSentence": "庭に花があります。"
+    },
+    {
+      "id": 3,
+      "japanese": "いえ (家)",
+      "romaji": "ie",
+      "translation": "家",
+      "exampleSentence": "私の家は駅の近くです。"
+    },
+    {
+      "id": 4,
+      "japanese": "いま (居間)",
+      "romaji": "ima",
+      "translation": "客厅",
+      "exampleSentence": "居間でテレビを見ます。"
+    },
+    {
+      "id": 5,
+      "japanese": "れいぞうこ (冷蔵庫)",
+      "romaji": "reizouko",
+      "translation": "冰箱",
+      "exampleSentence": "冷蔵庫にビールがあります。"
+    },
+    {
+      "id": 6,
+      "japanese": "かべ (壁)",
+      "romaji": "kabe",
+      "translation": "墙/墙壁",
+      "exampleSentence": "壁に絵があります。"
+    },
+    {
+      "id": 7,
+      "japanese": "スイッチ",
+      "romaji": "suitchi",
+      "translation": "开关",
+      "exampleSentence": "スイッチはどこですか。"
+    },
+    {
+      "id": 8,
+      "japanese": "ほんだな (本棚)",
+      "romaji": "hondana",
+      "translation": "书架",
+      "exampleSentence": "本棚に本があります。"
+    },
+    {
+      "id": 9,
+      "japanese": "ベッド",
+      "romaji": "beddo",
+      "translation": "床",
+      "exampleSentence": "ベッドで寝ます。"
+    },
+    {
+      "id": 10,
+      "japanese": "ねこ (猫)",
+      "romaji": "neko",
+      "translation": "猫",
+      "exampleSentence": "猫がいます。"
+    },
+    {
+      "id": 11,
+      "japanese": "いぬ (犬)",
+      "romaji": "inu",
+      "translation": "狗",
+      "exampleSentence": "犬は庭にいます。"
+    },
+    {
+      "id": 12,
+      "japanese": "はこ (箱)",
+      "romaji": "hako",
+      "translation": "盒子/箱子",
+      "exampleSentence": "箱の中に本があります。"
+    },
+    {
+      "id": 13,
+      "japanese": "めがね (眼鏡)",
+      "romaji": "megane",
+      "translation": "眼镜",
+      "exampleSentence": "眼鏡はどこですか。"
+    },
+    {
+      "id": 14,
+      "japanese": "ビデオ",
+      "romaji": "bideo",
+      "translation": "录像/视频",
+      "exampleSentence": "ビデオを見ます。"
+    },
+    {
+      "id": 15,
+      "japanese": "サッカーボール",
+      "romaji": "sakkaabo oru",
+      "translation": "足球",
+      "exampleSentence": "サッカーボールで遊びます。"
+    },
+    {
+      "id": 16,
+      "japanese": "ビール",
+      "romaji": "biiru",
+      "translation": "啤酒",
+      "exampleSentence": "ビールを飲みます。"
+    },
+    {
+      "id": 17,
+      "japanese": "ウイスキー",
+      "romaji": "uisukii",
+      "translation": "威士忌",
+      "exampleSentence": "ウイスキーを飲みます。"
+    },
+    {
+      "id": 18,
+      "japanese": "こども (子供)",
+      "romaji": "kodomo",
+      "translation": "小孩/孩子",
+      "exampleSentence": "子供が公園にいます。"
+    },
+    {
+      "id": 19,
+      "japanese": "きょうだい (兄弟)",
+      "romaji": "kyoudai",
+      "translation": "兄弟姐妹",
+      "exampleSentence": "兄弟がいますか。"
+    },
+    {
+      "id": 20,
+      "japanese": "りょうしん (両親)",
+      "romaji": "ryoushin",
+      "translation": "父母/双亲",
+      "exampleSentence": "両親は東京にいます。"
+    },
+    {
+      "id": 21,
+      "japanese": "いもうと (妹)",
+      "romaji": "imouto",
+      "translation": "妹妹",
+      "exampleSentence": "妹は学生です。"
+    },
+    {
+      "id": 22,
+      "japanese": "おとこ (男)",
+      "romaji": "otoko",
+      "translation": "男人/男性",
+      "exampleSentence": "あの人は男の人です。"
+    },
+    {
+      "id": 23,
+      "japanese": "おんな (女)",
+      "romaji": "onna",
+      "translation": "女人/女性",
+      "exampleSentence": "この人は女の人です。"
+    },
+    {
+      "id": 24,
+      "japanese": "せいと (生徒)",
+      "romaji": "seito",
+      "translation": "学生",
+      "exampleSentence": "生徒は教室にいます。"
+    },
+    {
+      "id": 25,
+      "japanese": "うえ (上)",
+      "romaji": "ue",
+      "translation": "上面",
+      "exampleSentence": "本は机の上にあります。"
+    },
+    {
+      "id": 26,
+      "japanese": "そと (外)",
+      "romaji": "soto",
+      "translation": "外面",
+      "exampleSentence": "猫は外にいます。"
+    },
+    {
+      "id": 27,
+      "japanese": "なか (中)",
+      "romaji": "naka",
+      "translation": "里面/中间",
+      "exampleSentence": "箱の中に猫がいます。"
+    },
+    {
+      "id": 28,
+      "japanese": "した (下)",
+      "romaji": "shita",
+      "translation": "下面",
+      "exampleSentence": "本は机の下にあります。"
+    },
+    {
+      "id": 29,
+      "japanese": "まえ (前)",
+      "romaji": "mae",
+      "translation": "前面",
+      "exampleSentence": "机の前にいます。"
+    },
+    {
+      "id": 30,
+      "japanese": "うしろ (後ろ)",
+      "romaji": "ushiro",
+      "translation": "后面",
+      "exampleSentence": "机の後ろに猫がいます。"
+    },
+    {
+      "id": 31,
+      "japanese": "ちかく (近く)",
+      "romaji": "chikaku",
+      "translation": "附近",
+      "exampleSentence": "駅の近くに家があります。"
+    },
+    {
+      "id": 32,
+      "japanese": "ばしょ (場所)",
+      "romaji": "basho",
+      "translation": "地方/场所",
+      "exampleSentence": "この場所はどこですか。"
+    },
+    {
+      "id": 33,
+      "japanese": "きょうしつ (教室)",
+      "romaji": "kyoushitsu",
+      "translation": "教室",
+      "exampleSentence": "教室に学生がいます。"
+    },
+    {
+      "id": 34,
+      "japanese": "かいぎしつ (会議室)",
+      "romaji": "kaigishitsu",
+      "translation": "会议室",
+      "exampleSentence": "会議室で会議をします。"
+    },
+    {
+      "id": 35,
+      "japanese": "としょしつ (図書室)",
+      "romaji": "toshoshitsu",
+      "translation": "图书室",
+      "exampleSentence": "図書室で本を読みます。"
+    },
+    {
+      "id": 36,
+      "japanese": "こうえん (公園)",
+      "romaji": "kouen",
+      "translation": "公园",
+      "exampleSentence": "公園で遊びます。"
+    },
+    {
+      "id": 37,
+      "japanese": "はなや (花屋)",
+      "romaji": "hanaya",
+      "translation": "花店",
+      "exampleSentence": "花屋で花を買います。"
+    },
+    {
+      "id": 38,
+      "japanese": "ばいてん (売店)",
+      "romaji": "baiten",
+      "translation": "小卖部/售货亭",
+      "exampleSentence": "売店でジュースを買います。"
+    },
+    {
+      "id": 39,
+      "japanese": "えき (駅)",
+      "romaji": "eki",
+      "translation": "车站",
+      "exampleSentence": "駅で友達を待ちます。"
+    },
+    {
+      "id": 40,
+      "japanese": "ちかてつ (地下鉄)",
+      "romaji": "chikatetsu",
+      "translation": "地铁",
+      "exampleSentence": "地下鉄で行きます。"
+    },
+    {
+      "id": 41,
+      "japanese": "き (木)",
+      "romaji": "ki",
+      "translation": "树",
+      "exampleSentence": "公園に木があります。"
+    },
+    {
+      "id": 42,
+      "japanese": "ひとりぐらし (一人暮らし)",
+      "romaji": "hitori gurashi",
+      "translation": "独自生活/一个人住",
+      "exampleSentence": "一人暮らしです。"
+    },
+    {
+      "id": 43,
+      "japanese": "あります",
+      "romaji": "arimasu",
+      "translation": "有(物品的存在)",
+      "exampleSentence": "本があります。"
+    },
+    {
+      "id": 44,
+      "japanese": "います",
+      "romaji": "imasu",
+      "translation": "有/在(人或动物的存在)",
+      "exampleSentence": "猫がいます。"
+    },
+    {
+      "id": 45,
+      "japanese": "ええと",
+      "romaji": "eeto",
+      "translation": "呃/让我想想",
+      "exampleSentence": "ええと、わかりません。"
+    },
+    {
+      "id": 46,
+      "japanese": "よこはま (横浜)",
+      "romaji": "yokohama",
+      "translation": "横滨",
+      "exampleSentence": "横浜は神奈川にあります。"
+    },
+    {
+      "id": 47,
+      "japanese": "なごや (名古屋)",
+      "romaji": "nagoya",
+      "translation": "名古屋",
+      "exampleSentence": "名古屋は愛知県にあります。"
+    },
+    {
+      "id": 48,
+      "japanese": "おおさか (大阪)",
+      "romaji": "oosaka",
+      "translation": "大阪",
+      "exampleSentence": "大阪は大きい都市です。"
+    },
+    {
+      "id": 49,
+      "japanese": "ジェーアール (JR)",
+      "romaji": "jeeaaru",
+      "translation": "JR(日本铁路)",
+      "exampleSentence": "JRで東京に行きます。"
+    },
+    {
+      "id": 50,
+      "japanese": "ご～",
+      "romaji": "go~",
+      "translation": "敬语前缀",
+      "exampleSentence": "ご家族は何人ですか。"
+    }
+  ]
+}

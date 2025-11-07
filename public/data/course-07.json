@@ -1,0 +1,378 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 7,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "コーヒー",
+      "romaji": "koohii",
+      "translation": "咖啡",
+      "exampleSentence": "コーヒーを飲みます。"
+    },
+    {
+      "id": 2,
+      "japanese": "コーラ",
+      "romaji": "koora",
+      "translation": "可乐",
+      "exampleSentence": "コーラをください。"
+    },
+    {
+      "id": 3,
+      "japanese": "ケーキ",
+      "romaji": "keeki",
+      "translation": "蛋糕",
+      "exampleSentence": "ケーキを食べます。"
+    },
+    {
+      "id": 4,
+      "japanese": "パン",
+      "romaji": "pan",
+      "translation": "面包",
+      "exampleSentence": "パンを買います。"
+    },
+    {
+      "id": 5,
+      "japanese": "ごはん (ご飯)",
+      "romaji": "gohan",
+      "translation": "米饭/饭",
+      "exampleSentence": "ご飯を食べます。"
+    },
+    {
+      "id": 6,
+      "japanese": "ひるごはん (昼ご飯)",
+      "romaji": "hirugohan",
+      "translation": "午饭",
+      "exampleSentence": "昼ご飯を食べました。"
+    },
+    {
+      "id": 7,
+      "japanese": "おべんとう (お弁当)",
+      "romaji": "obentou",
+      "translation": "便当",
+      "exampleSentence": "お弁当を作ります。"
+    },
+    {
+      "id": 8,
+      "japanese": "そば",
+      "romaji": "soba",
+      "translation": "荞麦面",
+      "exampleSentence": "そばを食べます。"
+    },
+    {
+      "id": 9,
+      "japanese": "うどん",
+      "romaji": "udon",
+      "translation": "乌冬面",
+      "exampleSentence": "うどんが好きです。"
+    },
+    {
+      "id": 10,
+      "japanese": "ぎゅうにく (牛肉)",
+      "romaji": "gyuuniku",
+      "translation": "牛肉",
+      "exampleSentence": "牛肉を食べます。"
+    },
+    {
+      "id": 11,
+      "japanese": "にく (肉)",
+      "romaji": "niku",
+      "translation": "肉",
+      "exampleSentence": "肉が好きです。"
+    },
+    {
+      "id": 12,
+      "japanese": "さかな (魚)",
+      "romaji": "sakana",
+      "translation": "鱼",
+      "exampleSentence": "魚を食べます。"
+    },
+    {
+      "id": 13,
+      "japanese": "たまご (卵)",
+      "romaji": "tamago",
+      "translation": "鸡蛋",
+      "exampleSentence": "卵を買います。"
+    },
+    {
+      "id": 14,
+      "japanese": "やさい (野菜)",
+      "romaji": "yasai",
+      "translation": "蔬菜",
+      "exampleSentence": "野菜は健康にいいです。"
+    },
+    {
+      "id": 15,
+      "japanese": "リンゴ",
+      "romaji": "ringo",
+      "translation": "苹果",
+      "exampleSentence": "リンゴが好きです。"
+    },
+    {
+      "id": 16,
+      "japanese": "ミカン",
+      "romaji": "mikan",
+      "translation": "橘子",
+      "exampleSentence": "ミカンを食べます。"
+    },
+    {
+      "id": 17,
+      "japanese": "チーズ",
+      "romaji": "chiizu",
+      "translation": "奶酪/芝士",
+      "exampleSentence": "チーズが好きです。"
+    },
+    {
+      "id": 18,
+      "japanese": "イチゴ",
+      "romaji": "ichigo",
+      "translation": "草莓",
+      "exampleSentence": "イチゴを食べます。"
+    },
+    {
+      "id": 19,
+      "japanese": "バナナ",
+      "romaji": "banana",
+      "translation": "香蕉",
+      "exampleSentence": "バナナが好きです。"
+    },
+    {
+      "id": 20,
+      "japanese": "テニス",
+      "romaji": "tenisu",
+      "translation": "网球",
+      "exampleSentence": "テニスをします。"
+    },
+    {
+      "id": 21,
+      "japanese": "ジョギング",
+      "romaji": "jogingu",
+      "translation": "慢跑",
+      "exampleSentence": "ジョギングをします。"
+    },
+    {
+      "id": 22,
+      "japanese": "サッカー",
+      "romaji": "sakkaa",
+      "translation": "足球",
+      "exampleSentence": "サッカーが好きです。"
+    },
+    {
+      "id": 23,
+      "japanese": "やきゅう (野球)",
+      "romaji": "yakyuu",
+      "translation": "棒球",
+      "exampleSentence": "野球をします。"
+    },
+    {
+      "id": 24,
+      "japanese": "ちゅうごく (中国)",
+      "romaji": "chuugoku",
+      "translation": "中国",
+      "exampleSentence": "中国に行きたいです。"
+    },
+    {
+      "id": 25,
+      "japanese": "とけい (時計)",
+      "romaji": "tokei",
+      "translation": "钟表/手表",
+      "exampleSentence": "時計を買います。"
+    },
+    {
+      "id": 26,
+      "japanese": "シーディー (CD)",
+      "romaji": "shiidii",
+      "translation": "CD/光盘",
+      "exampleSentence": "CDを聞きます。"
+    },
+    {
+      "id": 27,
+      "japanese": "おんがく (音楽)",
+      "romaji": "ongaku",
+      "translation": "音乐",
+      "exampleSentence": "音楽を聞きます。"
+    },
+    {
+      "id": 28,
+      "japanese": "えいが (映画)",
+      "romaji": "eiga",
+      "translation": "电影",
+      "exampleSentence": "映画を見ます。"
+    },
+    {
+      "id": 29,
+      "japanese": "のみます (飲みます)",
+      "romaji": "nomimasu",
+      "translation": "喝",
+      "exampleSentence": "コーヒーを飲みます。"
+    },
+    {
+      "id": 30,
+      "japanese": "かいます (買います)",
+      "romaji": "kaimasu",
+      "translation": "买",
+      "exampleSentence": "本を買います。"
+    },
+    {
+      "id": 31,
+      "japanese": "とります (撮ります)",
+      "romaji": "torimasu",
+      "translation": "拍摄/照相",
+      "exampleSentence": "写真を撮ります。"
+    },
+    {
+      "id": 32,
+      "japanese": "かきます (書きます)",
+      "romaji": "kakimasu",
+      "translation": "写",
+      "exampleSentence": "手紙を書きます。"
+    },
+    {
+      "id": 33,
+      "japanese": "よみます (読みます)",
+      "romaji": "yomimasu",
+      "translation": "读/阅读",
+      "exampleSentence": "本を読みます。"
+    },
+    {
+      "id": 34,
+      "japanese": "ききます (聞きます)",
+      "romaji": "kikimasu",
+      "translation": "听",
+      "exampleSentence": "音楽を聞きます。"
+    },
+    {
+      "id": 35,
+      "japanese": "たべます (食べます)",
+      "romaji": "tabemasu",
+      "translation": "吃",
+      "exampleSentence": "ご飯を食べます。"
+    },
+    {
+      "id": 36,
+      "japanese": "みます (見ます)",
+      "romaji": "mimasu",
+      "translation": "看",
+      "exampleSentence": "テレビを見ます。"
+    },
+    {
+      "id": 37,
+      "japanese": "します",
+      "romaji": "shimasu",
+      "translation": "做",
+      "exampleSentence": "仕事をします。"
+    },
+    {
+      "id": 38,
+      "japanese": "べんきょうします (勉強します)",
+      "romaji": "benkyou shimasu",
+      "translation": "学习",
+      "exampleSentence": "日本語を勉強します。"
+    },
+    {
+      "id": 39,
+      "japanese": "そうじします (掃除します)",
+      "romaji": "souji shimasu",
+      "translation": "打扫",
+      "exampleSentence": "部屋を掃除します。"
+    },
+    {
+      "id": 40,
+      "japanese": "どうぞ",
+      "romaji": "douzo",
+      "translation": "请",
+      "exampleSentence": "どうぞお座りください。"
+    },
+    {
+      "id": 41,
+      "japanese": "そういう",
+      "romaji": "souiu",
+      "translation": "那样的",
+      "exampleSentence": "そういうことです。"
+    },
+    {
+      "id": 42,
+      "japanese": "三がにち (三が日)",
+      "romaji": "san ga nichi",
+      "translation": "新年三天",
+      "exampleSentence": "三が日は休みです。"
+    },
+    {
+      "id": 43,
+      "japanese": "じゃあ/では",
+      "romaji": "jaa/dewa",
+      "translation": "那么/那",
+      "exampleSentence": "じゃあ、行きましょう。"
+    },
+    {
+      "id": 44,
+      "japanese": "いらっしゃいませ",
+      "romaji": "irasshaimase",
+      "translation": "欢迎光临",
+      "exampleSentence": "いらっしゃいませ。"
+    },
+    {
+      "id": 45,
+      "japanese": "いらっしゃい",
+      "romaji": "irasshai",
+      "translation": "欢迎",
+      "exampleSentence": "いらっしゃい。"
+    },
+    {
+      "id": 46,
+      "japanese": "いってきます (行ってきます)",
+      "romaji": "itte kimasu",
+      "translation": "我出去了/我走了",
+      "exampleSentence": "行ってきます。"
+    },
+    {
+      "id": 47,
+      "japanese": "いってらっしゃい (行ってらっしゃい)",
+      "romaji": "itte rasshai",
+      "translation": "慢走/路上小心",
+      "exampleSentence": "行ってらっしゃい。"
+    },
+    {
+      "id": 48,
+      "japanese": "ただいま",
+      "romaji": "tadaima",
+      "translation": "我回来了",
+      "exampleSentence": "ただいま。"
+    },
+    {
+      "id": 49,
+      "japanese": "おかえりなさい (お帰りなさい)",
+      "romaji": "okaerinasai",
+      "translation": "欢迎回来",
+      "exampleSentence": "お帰りなさい。"
+    },
+    {
+      "id": 50,
+      "japanese": "かしこまりました",
+      "romaji": "kashikomarimashita",
+      "translation": "明白了/好的(敬语)",
+      "exampleSentence": "かしこまりました。"
+    },
+    {
+      "id": 51,
+      "japanese": "ください",
+      "romaji": "kudasai",
+      "translation": "请给我",
+      "exampleSentence": "水をください。"
+    },
+    {
+      "id": 52,
+      "japanese": "～たち",
+      "romaji": "~tachi",
+      "translation": "~们(复数)",
+      "exampleSentence": "友達と遊びます。"
+    },
+    {
+      "id": 53,
+      "japanese": "～や～",
+      "romaji": "~ya~",
+      "translation": "~和~等",
+      "exampleSentence": "リンゴやバナナを買います。"
+    }
+  ]
+}

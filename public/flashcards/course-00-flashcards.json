@@ -1,0 +1,943 @@
+{
+  "courseTitle": "Hiragana and Katakana - Gojūon, Dakuon, Handakuon, Yōon",
+  "courseNumber": 0,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "あ / ア",
+      "romaji": "a",
+      "translation": "元音 a",
+      "exampleSentence": "あ a",
+      "mnemonic": "五十音的第一个音，发音类似汉语拼音的 a",
+      "additionalExamples": []
+    },
+    {
+      "id": 2,
+      "japanese": "い / イ",
+      "romaji": "i",
+      "translation": "元音 i",
+      "exampleSentence": "い i",
+      "mnemonic": "发音类似汉语拼音的 i",
+      "additionalExamples": []
+    },
+    {
+      "id": 3,
+      "japanese": "う / ウ",
+      "romaji": "u",
+      "translation": "元音 u",
+      "exampleSentence": "う u",
+      "mnemonic": "发音类似汉语拼音的 u",
+      "additionalExamples": []
+    },
+    {
+      "id": 4,
+      "japanese": "え / エ",
+      "romaji": "e",
+      "translation": "元音 e",
+      "exampleSentence": "え e",
+      "mnemonic": "发音类似汉语拼音的 e",
+      "additionalExamples": []
+    },
+    {
+      "id": 5,
+      "japanese": "お / オ",
+      "romaji": "o",
+      "translation": "元音 o",
+      "exampleSentence": "お o",
+      "mnemonic": "发音类似汉语拼音的 o",
+      "additionalExamples": []
+    },
+    {
+      "id": 6,
+      "japanese": "か / カ",
+      "romaji": "ka",
+      "translation": "K行 - ka",
+      "exampleSentence": "か ka",
+      "mnemonic": "K行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 7,
+      "japanese": "き / キ",
+      "romaji": "ki",
+      "translation": "K行 - ki",
+      "exampleSentence": "き ki",
+      "mnemonic": "K行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 8,
+      "japanese": "く / ク",
+      "romaji": "ku",
+      "translation": "K行 - ku",
+      "exampleSentence": "く ku",
+      "mnemonic": "K行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 9,
+      "japanese": "け / ケ",
+      "romaji": "ke",
+      "translation": "K行 - ke",
+      "exampleSentence": "け ke",
+      "mnemonic": "K行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 10,
+      "japanese": "こ / コ",
+      "romaji": "ko",
+      "translation": "K行 - ko",
+      "exampleSentence": "こ ko",
+      "mnemonic": "K行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 11,
+      "japanese": "さ / サ",
+      "romaji": "sa",
+      "translation": "S行 - sa",
+      "exampleSentence": "さ sa",
+      "mnemonic": "S行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 12,
+      "japanese": "し / シ",
+      "romaji": "shi",
+      "translation": "S行 - shi",
+      "exampleSentence": "し shi",
+      "mnemonic": "发音类似汉语拼音的 xi (西)",
+      "additionalExamples": []
+    },
+    {
+      "id": 13,
+      "japanese": "す / ス",
+      "romaji": "su",
+      "translation": "S行 - su",
+      "exampleSentence": "す su",
+      "mnemonic": "S行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 14,
+      "japanese": "せ / セ",
+      "romaji": "se",
+      "translation": "S行 - se",
+      "exampleSentence": "せ se",
+      "mnemonic": "S行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 15,
+      "japanese": "そ / ソ",
+      "romaji": "so",
+      "translation": "S行 - so",
+      "exampleSentence": "そ so",
+      "mnemonic": "S行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 16,
+      "japanese": "た / タ",
+      "romaji": "ta",
+      "translation": "T行 - ta",
+      "exampleSentence": "た ta",
+      "mnemonic": "T行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 17,
+      "japanese": "ち / チ",
+      "romaji": "chi",
+      "translation": "T行 - chi",
+      "exampleSentence": "ち chi",
+      "mnemonic": "发音类似汉语拼音的 qi (起)",
+      "additionalExamples": []
+    },
+    {
+      "id": 18,
+      "japanese": "つ / ツ",
+      "romaji": "tsu",
+      "translation": "T行 - tsu",
+      "exampleSentence": "つ tsu",
+      "mnemonic": "T行第三个音，是 ts 和 u 的结合音",
+      "additionalExamples": []
+    },
+    {
+      "id": 19,
+      "japanese": "て / テ",
+      "romaji": "te",
+      "translation": "T行 - te",
+      "exampleSentence": "て te",
+      "mnemonic": "T行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 20,
+      "japanese": "と / ト",
+      "romaji": "to",
+      "translation": "T行 - to",
+      "exampleSentence": "と to",
+      "mnemonic": "T行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 21,
+      "japanese": "な / ナ",
+      "romaji": "na",
+      "translation": "N行 - na",
+      "exampleSentence": "な na",
+      "mnemonic": "N行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 22,
+      "japanese": "に / ニ",
+      "romaji": "ni",
+      "translation": "N行 - ni",
+      "exampleSentence": "に ni",
+      "mnemonic": "N行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 23,
+      "japanese": "ぬ / ヌ",
+      "romaji": "nu",
+      "translation": "N行 - nu",
+      "exampleSentence": "ぬ nu",
+      "mnemonic": "N行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 24,
+      "japanese": "ね / ネ",
+      "romaji": "ne",
+      "translation": "N行 - ne",
+      "exampleSentence": "ね ne",
+      "mnemonic": "N行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 25,
+      "japanese": "の / ノ",
+      "romaji": "no",
+      "translation": "N行 - no",
+      "exampleSentence": "の no",
+      "mnemonic": "N行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 26,
+      "japanese": "は / ハ",
+      "romaji": "ha",
+      "translation": "H行 - ha",
+      "exampleSentence": "は ha",
+      "mnemonic": "H行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 27,
+      "japanese": "ひ / ヒ",
+      "romaji": "hi",
+      "translation": "H行 - hi",
+      "exampleSentence": "ひ hi",
+      "mnemonic": "H行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 28,
+      "japanese": "ふ / フ",
+      "romaji": "fu",
+      "translation": "H行 - fu",
+      "exampleSentence": "ふ fu",
+      "mnemonic": "H行第三个音，发音介于 fu 和 hu 之间",
+      "additionalExamples": []
+    },
+    {
+      "id": 29,
+      "japanese": "へ / ヘ",
+      "romaji": "he",
+      "translation": "H行 - he",
+      "exampleSentence": "へ he",
+      "mnemonic": "H行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 30,
+      "japanese": "ほ / ホ",
+      "romaji": "ho",
+      "translation": "H行 - ho",
+      "exampleSentence": "ほ ho",
+      "mnemonic": "H行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 31,
+      "japanese": "ま / マ",
+      "romaji": "ma",
+      "translation": "M行 - ma",
+      "exampleSentence": "ま ma",
+      "mnemonic": "M行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 32,
+      "japanese": "み / ミ",
+      "romaji": "mi",
+      "translation": "M行 - mi",
+      "exampleSentence": "み mi",
+      "mnemonic": "M行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 33,
+      "japanese": "む / ム",
+      "romaji": "mu",
+      "translation": "M行 - mu",
+      "exampleSentence": "む mu",
+      "mnemonic": "M行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 34,
+      "japanese": "め / メ",
+      "romaji": "me",
+      "translation": "M行 - me",
+      "exampleSentence": "め me",
+      "mnemonic": "M行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 35,
+      "japanese": "も / モ",
+      "romaji": "mo",
+      "translation": "M行 - mo",
+      "exampleSentence": "も mo",
+      "mnemonic": "M行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 36,
+      "japanese": "や / ヤ",
+      "romaji": "ya",
+      "translation": "Y行 - ya",
+      "exampleSentence": "や ya",
+      "mnemonic": "Y行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 37,
+      "japanese": "ゆ / ユ",
+      "romaji": "yu",
+      "translation": "Y行 - yu",
+      "exampleSentence": "ゆ yu",
+      "mnemonic": "Y行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 38,
+      "japanese": "よ / ヨ",
+      "romaji": "yo",
+      "translation": "Y行 - yo",
+      "exampleSentence": "よ yo",
+      "mnemonic": "Y行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 39,
+      "japanese": "ら / ラ",
+      "romaji": "ra",
+      "translation": "R行 - ra",
+      "exampleSentence": "ら ra",
+      "mnemonic": "R行第一个音，发音介于 l 和 r 之间",
+      "additionalExamples": []
+    },
+    {
+      "id": 40,
+      "japanese": "り / リ",
+      "romaji": "ri",
+      "translation": "R行 - ri",
+      "exampleSentence": "り ri",
+      "mnemonic": "R行第二个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 41,
+      "japanese": "る / ル",
+      "romaji": "ru",
+      "translation": "R行 - ru",
+      "exampleSentence": "る ru",
+      "mnemonic": "R行第三个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 42,
+      "japanese": "れ / レ",
+      "romaji": "re",
+      "translation": "R行 - re",
+      "exampleSentence": "れ re",
+      "mnemonic": "R行第四个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 43,
+      "japanese": "ろ / ロ",
+      "romaji": "ro",
+      "translation": "R行 - ro",
+      "exampleSentence": "ろ ro",
+      "mnemonic": "R行第五个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 44,
+      "japanese": "わ / ワ",
+      "romaji": "wa",
+      "translation": "W行 - wa",
+      "exampleSentence": "わ wa",
+      "mnemonic": "W行第一个音",
+      "additionalExamples": []
+    },
+    {
+      "id": 45,
+      "japanese": "を / ヲ",
+      "romaji": "wo (o)",
+      "translation": "W行 - wo",
+      "exampleSentence": "を wo",
+      "mnemonic": "发音同 お，主要作为助词使用",
+      "additionalExamples": []
+    },
+    {
+      "id": 46,
+      "japanese": "ん / ン",
+      "romaji": "n",
+      "translation": "拨音 n",
+      "exampleSentence": "ん n",
+      "mnemonic": "唯一不以元音结尾的假名",
+      "additionalExamples": []
+    },
+    {
+      "id": 47,
+      "japanese": "が / ガ",
+      "romaji": "ga",
+      "translation": "浊音 G行 - ga",
+      "exampleSentence": "が ga",
+      "mnemonic": "か 加浊点变成 が",
+      "additionalExamples": []
+    },
+    {
+      "id": 48,
+      "japanese": "ぎ / ギ",
+      "romaji": "gi",
+      "translation": "浊音 G行 - gi",
+      "exampleSentence": "ぎ gi",
+      "mnemonic": "き 加浊点变成 ぎ",
+      "additionalExamples": []
+    },
+    {
+      "id": 49,
+      "japanese": "ぐ / グ",
+      "romaji": "gu",
+      "translation": "浊音 G行 - gu",
+      "exampleSentence": "ぐ gu",
+      "mnemonic": "く 加浊点变成 ぐ",
+      "additionalExamples": []
+    },
+    {
+      "id": 50,
+      "japanese": "げ / ゲ",
+      "romaji": "ge",
+      "translation": "浊音 G行 - ge",
+      "exampleSentence": "げ ge",
+      "mnemonic": "け 加浊点变成 げ",
+      "additionalExamples": []
+    },
+    {
+      "id": 51,
+      "japanese": "ご / ゴ",
+      "romaji": "go",
+      "translation": "浊音 G行 - go",
+      "exampleSentence": "ご go",
+      "mnemonic": "こ 加浊点变成 ご",
+      "additionalExamples": []
+    },
+    {
+      "id": 52,
+      "japanese": "ざ / ザ",
+      "romaji": "za",
+      "translation": "浊音 Z行 - za",
+      "exampleSentence": "ざ za",
+      "mnemonic": "さ 加浊点变成 ざ",
+      "additionalExamples": []
+    },
+    {
+      "id": 53,
+      "japanese": "じ / ジ",
+      "romaji": "ji",
+      "translation": "浊音 Z行 - ji",
+      "exampleSentence": "じ ji",
+      "mnemonic": "し 加浊点变成 じ，发音类似汉语拼音的 ji",
+      "additionalExamples": []
+    },
+    {
+      "id": 54,
+      "japanese": "ず / ズ",
+      "romaji": "zu",
+      "translation": "浊音 Z行 - zu",
+      "exampleSentence": "ず zu",
+      "mnemonic": "す 加浊点变成 ず",
+      "additionalExamples": []
+    },
+    {
+      "id": 55,
+      "japanese": "ぜ / ゼ",
+      "romaji": "ze",
+      "translation": "浊音 Z行 - ze",
+      "exampleSentence": "ぜ ze",
+      "mnemonic": "せ 加浊点变成 ぜ",
+      "additionalExamples": []
+    },
+    {
+      "id": 56,
+      "japanese": "ぞ / ゾ",
+      "romaji": "zo",
+      "translation": "浊音 Z行 - zo",
+      "exampleSentence": "ぞ zo",
+      "mnemonic": "そ 加浊点变成 ぞ",
+      "additionalExamples": []
+    },
+    {
+      "id": 57,
+      "japanese": "だ / ダ",
+      "romaji": "da",
+      "translation": "浊音 D行 - da",
+      "exampleSentence": "だ da",
+      "mnemonic": "た 加浊点变成 だ",
+      "additionalExamples": []
+    },
+    {
+      "id": 58,
+      "japanese": "ぢ / ヂ",
+      "romaji": "ji",
+      "translation": "浊音 D行 - ji",
+      "exampleSentence": "ぢ ji",
+      "mnemonic": "ち 加浊点变成 ぢ，发音同 じ",
+      "additionalExamples": []
+    },
+    {
+      "id": 59,
+      "japanese": "づ / ヅ",
+      "romaji": "zu",
+      "translation": "浊音 D行 - zu",
+      "exampleSentence": "づ zu",
+      "mnemonic": "つ 加浊点变成 づ，发音同 ず",
+      "additionalExamples": []
+    },
+    {
+      "id": 60,
+      "japanese": "で / デ",
+      "romaji": "de",
+      "translation": "浊音 D行 - de",
+      "exampleSentence": "で de",
+      "mnemonic": "て 加浊点变成 で",
+      "additionalExamples": []
+    },
+    {
+      "id": 61,
+      "japanese": "ど / ド",
+      "romaji": "do",
+      "translation": "浊音 D行 - do",
+      "exampleSentence": "ど do",
+      "mnemonic": "と 加浊点变成 ど",
+      "additionalExamples": []
+    },
+    {
+      "id": 62,
+      "japanese": "ば / バ",
+      "romaji": "ba",
+      "translation": "浊音 B行 - ba",
+      "exampleSentence": "ば ba",
+      "mnemonic": "は 加浊点变成 ば",
+      "additionalExamples": []
+    },
+    {
+      "id": 63,
+      "japanese": "び / ビ",
+      "romaji": "bi",
+      "translation": "浊音 B行 - bi",
+      "exampleSentence": "び bi",
+      "mnemonic": "ひ 加浊点变成 び",
+      "additionalExamples": []
+    },
+    {
+      "id": 64,
+      "japanese": "ぶ / ブ",
+      "romaji": "bu",
+      "translation": "浊音 B行 - bu",
+      "exampleSentence": "ぶ bu",
+      "mnemonic": "ふ 加浊点变成 ぶ",
+      "additionalExamples": []
+    },
+    {
+      "id": 65,
+      "japanese": "べ / ベ",
+      "romaji": "be",
+      "translation": "浊音 B行 - be",
+      "exampleSentence": "べ be",
+      "mnemonic": "へ 加浊点变成 べ",
+      "additionalExamples": []
+    },
+    {
+      "id": 66,
+      "japanese": "ぼ / ボ",
+      "romaji": "bo",
+      "translation": "浊音 B行 - bo",
+      "exampleSentence": "ぼ bo",
+      "mnemonic": "ほ 加浊点变成 ぼ",
+      "additionalExamples": []
+    },
+    {
+      "id": 67,
+      "japanese": "ぱ / パ",
+      "romaji": "pa",
+      "translation": "半浊音 P行 - pa",
+      "exampleSentence": "ぱ pa",
+      "mnemonic": "は 加半浊点（圆圈）变成 ぱ",
+      "additionalExamples": []
+    },
+    {
+      "id": 68,
+      "japanese": "ぴ / ピ",
+      "romaji": "pi",
+      "translation": "半浊音 P行 - pi",
+      "exampleSentence": "ぴ pi",
+      "mnemonic": "ひ 加半浊点变成 ぴ",
+      "additionalExamples": []
+    },
+    {
+      "id": 69,
+      "japanese": "ぷ / プ",
+      "romaji": "pu",
+      "translation": "半浊音 P行 - pu",
+      "exampleSentence": "ぷ pu",
+      "mnemonic": "ふ 加半浊点变成 ぷ",
+      "additionalExamples": []
+    },
+    {
+      "id": 70,
+      "japanese": "ぺ / ペ",
+      "romaji": "pe",
+      "translation": "半浊音 P行 - pe",
+      "exampleSentence": "ぺ pe",
+      "mnemonic": "へ 加半浊点变成 ぺ",
+      "additionalExamples": []
+    },
+    {
+      "id": 71,
+      "japanese": "ぽ / ポ",
+      "romaji": "po",
+      "translation": "半浊音 P行 - po",
+      "exampleSentence": "ぽ po",
+      "mnemonic": "ほ 加半浊点变成 ぽ",
+      "additionalExamples": []
+    },
+    {
+      "id": 72,
+      "japanese": "きゃ / キャ",
+      "romaji": "kya",
+      "translation": "拗音 - kya",
+      "exampleSentence": "きゃ kya",
+      "mnemonic": "き + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 73,
+      "japanese": "きゅ / キュ",
+      "romaji": "kyu",
+      "translation": "拗音 - kyu",
+      "exampleSentence": "きゅ kyu",
+      "mnemonic": "き + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 74,
+      "japanese": "きょ / キョ",
+      "romaji": "kyo",
+      "translation": "拗音 - kyo",
+      "exampleSentence": "きょ kyo",
+      "mnemonic": "き + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 75,
+      "japanese": "しゃ / シャ",
+      "romaji": "sha",
+      "translation": "拗音 - sha",
+      "exampleSentence": "しゃ sha",
+      "mnemonic": "し + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 76,
+      "japanese": "しゅ / シュ",
+      "romaji": "shu",
+      "translation": "拗音 - shu",
+      "exampleSentence": "しゅ shu",
+      "mnemonic": "し + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 77,
+      "japanese": "しょ / ショ",
+      "romaji": "sho",
+      "translation": "拗音 - sho",
+      "exampleSentence": "しょ sho",
+      "mnemonic": "し + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 78,
+      "japanese": "ちゃ / チャ",
+      "romaji": "cha",
+      "translation": "拗音 - cha",
+      "exampleSentence": "ちゃ cha",
+      "mnemonic": "ち + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 79,
+      "japanese": "ちゅ / チュ",
+      "romaji": "chu",
+      "translation": "拗音 - chu",
+      "exampleSentence": "ちゅ chu",
+      "mnemonic": "ち + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 80,
+      "japanese": "ちょ / チョ",
+      "romaji": "cho",
+      "translation": "拗音 - cho",
+      "exampleSentence": "ちょ cho",
+      "mnemonic": "ち + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 81,
+      "japanese": "にゃ / ニャ",
+      "romaji": "nya",
+      "translation": "拗音 - nya",
+      "exampleSentence": "にゃ nya",
+      "mnemonic": "に + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 82,
+      "japanese": "にゅ / ニュ",
+      "romaji": "nyu",
+      "translation": "拗音 - nyu",
+      "exampleSentence": "にゅ nyu",
+      "mnemonic": "に + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 83,
+      "japanese": "にょ / ニョ",
+      "romaji": "nyo",
+      "translation": "拗音 - nyo",
+      "exampleSentence": "にょ nyo",
+      "mnemonic": "に + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 84,
+      "japanese": "ひゃ / ヒャ",
+      "romaji": "hya",
+      "translation": "拗音 - hya",
+      "exampleSentence": "ひゃ hya",
+      "mnemonic": "ひ + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 85,
+      "japanese": "ひゅ / ヒュ",
+      "romaji": "hyu",
+      "translation": "拗音 - hyu",
+      "exampleSentence": "ひゅ hyu",
+      "mnemonic": "ひ + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 86,
+      "japanese": "ひょ / ヒョ",
+      "romaji": "hyo",
+      "translation": "拗音 - hyo",
+      "exampleSentence": "ひょ hyo",
+      "mnemonic": "ひ + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 87,
+      "japanese": "みゃ / ミャ",
+      "romaji": "mya",
+      "translation": "拗音 - mya",
+      "exampleSentence": "みゃ mya",
+      "mnemonic": "み + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 88,
+      "japanese": "みゅ / ミュ",
+      "romaji": "myu",
+      "translation": "拗音 - myu",
+      "exampleSentence": "みゅ myu",
+      "mnemonic": "み + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 89,
+      "japanese": "みょ / ミョ",
+      "romaji": "myo",
+      "translation": "拗音 - myo",
+      "exampleSentence": "みょ myo",
+      "mnemonic": "み + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 90,
+      "japanese": "りゃ / リャ",
+      "romaji": "rya",
+      "translation": "拗音 - rya",
+      "exampleSentence": "りゃ rya",
+      "mnemonic": "り + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 91,
+      "japanese": "りゅ / リュ",
+      "romaji": "ryu",
+      "translation": "拗音 - ryu",
+      "exampleSentence": "りゅ ryu",
+      "mnemonic": "り + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 92,
+      "japanese": "りょ / リョ",
+      "romaji": "ryo",
+      "translation": "拗音 - ryo",
+      "exampleSentence": "りょ ryo",
+      "mnemonic": "り + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 93,
+      "japanese": "ぎゃ / ギャ",
+      "romaji": "gya",
+      "translation": "拗音浊音 - gya",
+      "exampleSentence": "ぎゃ gya",
+      "mnemonic": "ぎ + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 94,
+      "japanese": "ぎゅ / ギュ",
+      "romaji": "gyu",
+      "translation": "拗音浊音 - gyu",
+      "exampleSentence": "ぎゅ gyu",
+      "mnemonic": "ぎ + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 95,
+      "japanese": "ぎょ / ギョ",
+      "romaji": "gyo",
+      "translation": "拗音浊音 - gyo",
+      "exampleSentence": "ぎょ gyo",
+      "mnemonic": "ぎ + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 96,
+      "japanese": "じゃ / ジャ",
+      "romaji": "ja",
+      "translation": "拗音浊音 - ja",
+      "exampleSentence": "じゃ ja",
+      "mnemonic": "じ + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 97,
+      "japanese": "じゅ / ジュ",
+      "romaji": "ju",
+      "translation": "拗音浊音 - ju",
+      "exampleSentence": "じゅ ju",
+      "mnemonic": "じ + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 98,
+      "japanese": "じょ / ジョ",
+      "romaji": "jo",
+      "translation": "拗音浊音 - jo",
+      "exampleSentence": "じょ jo",
+      "mnemonic": "じ + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 99,
+      "japanese": "びゃ / ビャ",
+      "romaji": "bya",
+      "translation": "拗音浊音 - bya",
+      "exampleSentence": "びゃ bya",
+      "mnemonic": "び + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 100,
+      "japanese": "びゅ / ビュ",
+      "romaji": "byu",
+      "translation": "拗音浊音 - byu",
+      "exampleSentence": "びゅ byu",
+      "mnemonic": "び + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 101,
+      "japanese": "びょ / ビョ",
+      "romaji": "byo",
+      "translation": "拗音浊音 - byo",
+      "exampleSentence": "びょ byo",
+      "mnemonic": "び + 小 ょ",
+      "additionalExamples": []
+    },
+    {
+      "id": 102,
+      "japanese": "ぴゃ / ピャ",
+      "romaji": "pya",
+      "translation": "拗音半浊音 - pya",
+      "exampleSentence": "ぴゃ pya",
+      "mnemonic": "ぴ + 小 ゃ",
+      "additionalExamples": []
+    },
+    {
+      "id": 103,
+      "japanese": "ぴゅ / ピュ",
+      "romaji": "pyu",
+      "translation": "拗音半浊音 - pyu",
+      "exampleSentence": "ぴゅ pyu",
+      "mnemonic": "ぴ + 小 ゅ",
+      "additionalExamples": []
+    },
+    {
+      "id": 104,
+      "japanese": "ぴょ / ピョ",
+      "romaji": "pyo",
+      "translation": "拗音半浊音 - pyo",
+      "exampleSentence": "ぴょ pyo",
+      "mnemonic": "ぴ + 小 ょ",
+      "additionalExamples": []
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 8,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "てがみ (手紙)",
+      "romaji": "tegami",
+      "translation": "信/书信",
+      "exampleSentence": "手紙を書きます。"
+    },
+    {
+      "id": 2,
+      "japanese": "プレゼント",
+      "romaji": "purezento",
+      "translation": "礼物",
+      "exampleSentence": "プレゼントをあげます。"
+    },
+    {
+      "id": 3,
+      "japanese": "チケット",
+      "romaji": "chiketto",
+      "translation": "票",
+      "exampleSentence": "チケットを買います。"
+    },
+    {
+      "id": 4,
+      "japanese": "パンフレット",
+      "romaji": "panfuretto",
+      "translation": "小册子/宣传册",
+      "exampleSentence": "パンフレットをもらいました。"
+    },
+    {
+      "id": 5,
+      "japanese": "きねんひん (記念品)",
+      "romaji": "kinenhin",
+      "translation": "纪念品",
+      "exampleSentence": "記念品を買います。"
+    },
+    {
+      "id": 6,
+      "japanese": "スケジュールひょう (～表)",
+      "romaji": "sukejuuru hyou",
+      "translation": "日程表/时间表",
+      "exampleSentence": "スケジュール表を見ます。"
+    },
+    {
+      "id": 7,
+      "japanese": "しゃしんしゅう (写真集)",
+      "romaji": "shashinshuu",
+      "translation": "相册/摄影集",
+      "exampleSentence": "写真集を見ます。"
+    },
+    {
+      "id": 8,
+      "japanese": "はこね (箱根)",
+      "romaji": "hakone",
+      "translation": "箱根",
+      "exampleSentence": "箱根に行きます。"
+    },
+    {
+      "id": 9,
+      "japanese": "とうきょう (東京)",
+      "romaji": "toukyou",
+      "translation": "东京",
+      "exampleSentence": "東京は日本の首都です。"
+    },
+    {
+      "id": 10,
+      "japanese": "ちち (父)",
+      "romaji": "chichi",
+      "translation": "父亲(自己的)",
+      "exampleSentence": "父は会社員です。"
+    },
+    {
+      "id": 11,
+      "japanese": "はは (母)",
+      "romaji": "haha",
+      "translation": "母亲(自己的)",
+      "exampleSentence": "母は先生です。"
+    },
+    {
+      "id": 12,
+      "japanese": "おかあさん (お母さん)",
+      "romaji": "okaasan",
+      "translation": "妈妈(他人的母亲)",
+      "exampleSentence": "お母さんは元気ですか。"
+    },
+    {
+      "id": 13,
+      "japanese": "かぞく (家族)",
+      "romaji": "kazoku",
+      "translation": "家人/家庭",
+      "exampleSentence": "家族は4人です。"
+    },
+    {
+      "id": 14,
+      "japanese": "だれ",
+      "romaji": "dare",
+      "translation": "谁",
+      "exampleSentence": "これは誰ですか。"
+    },
+    {
+      "id": 15,
+      "japanese": "にほんご (日本語)",
+      "romaji": "nihongo",
+      "translation": "日语",
+      "exampleSentence": "日本語を勉強します。"
+    },
+    {
+      "id": 16,
+      "japanese": "～ご (～語)",
+      "romaji": "~go",
+      "translation": "~语",
+      "exampleSentence": "英語ができます。"
+    },
+    {
+      "id": 17,
+      "japanese": "えいご (英語)",
+      "romaji": "eigo",
+      "translation": "英语",
+      "exampleSentence": "英語を話します。"
+    },
+    {
+      "id": 18,
+      "japanese": "なに (何)",
+      "romaji": "nani",
+      "translation": "什么",
+      "exampleSentence": "何を買いますか。"
+    },
+    {
+      "id": 19,
+      "japanese": "もう",
+      "romaji": "mou",
+      "translation": "已经",
+      "exampleSentence": "もう帰りました。"
+    },
+    {
+      "id": 20,
+      "japanese": "あげます",
+      "romaji": "agemasu",
+      "translation": "给(别人)",
+      "exampleSentence": "友達にプレゼントをあげます。"
+    },
+    {
+      "id": 21,
+      "japanese": "もらいます",
+      "romaji": "moraimasu",
+      "translation": "得到/收到",
+      "exampleSentence": "プレゼントをもらいました。"
+    },
+    {
+      "id": 22,
+      "japanese": "あいます (会います)",
+      "romaji": "aimasu",
+      "translation": "见面",
+      "exampleSentence": "友達に会います。"
+    },
+    {
+      "id": 23,
+      "japanese": "おくります (送ります)",
+      "romaji": "okurimasu",
+      "translation": "寄送/送",
+      "exampleSentence": "手紙を送ります。"
+    },
+    {
+      "id": 24,
+      "japanese": "つくります (作ります)",
+      "romaji": "tsukurimasu",
+      "translation": "做/制作",
+      "exampleSentence": "料理を作ります。"
+    },
+    {
+      "id": 25,
+      "japanese": "わたします (渡します)",
+      "romaji": "watashimasu",
+      "translation": "交给/递给",
+      "exampleSentence": "本を渡します。"
+    },
+    {
+      "id": 26,
+      "japanese": "べんきょうします (勉強～)",
+      "romaji": "benkyou shimasu",
+      "translation": "学习",
+      "exampleSentence": "日本語を勉強します。"
+    },
+    {
+      "id": 27,
+      "japanese": "かします (貸します)",
+      "romaji": "kashimasu",
+      "translation": "借出/借给",
+      "exampleSentence": "本を貸します。"
+    },
+    {
+      "id": 28,
+      "japanese": "かります (借ります)",
+      "romaji": "karimasu",
+      "translation": "借入",
+      "exampleSentence": "本を借ります。"
+    },
+    {
+      "id": 29,
+      "japanese": "おしえます (教えます)",
+      "romaji": "oshiemasu",
+      "translation": "教",
+      "exampleSentence": "日本語を教えます。"
+    },
+    {
+      "id": 30,
+      "japanese": "ならいます (習います)",
+      "romaji": "naraimasu",
+      "translation": "学习",
+      "exampleSentence": "日本語を習います。"
+    },
+    {
+      "id": 31,
+      "japanese": "かけます",
+      "romaji": "kakemasu",
+      "translation": "打(电话)",
+      "exampleSentence": "電話をかけます。"
+    },
+    {
+      "id": 32,
+      "japanese": "いきます (行きます)",
+      "romaji": "ikimasu",
+      "translation": "去/走",
+      "exampleSentence": "学校に行きます。"
+    },
+    {
+      "id": 33,
+      "japanese": "さっき",
+      "romaji": "sakki",
+      "translation": "刚才",
+      "exampleSentence": "さっき会いました。"
+    },
+    {
+      "id": 34,
+      "japanese": "～から",
+      "romaji": "~kara",
+      "translation": "从~",
+      "exampleSentence": "9時から会議です。"
+    },
+    {
+      "id": 35,
+      "japanese": "～ごろ",
+      "romaji": "~goro",
+      "translation": "~左右/大约~",
+      "exampleSentence": "3時ごろに来ます。"
+    },
+    {
+      "id": 36,
+      "japanese": "にっちゅうしょうじ (日中商事)",
+      "romaji": "nicchuushouji",
+      "translation": "日中商事(公司名)",
+      "exampleSentence": "日中商事で働きます。"
+    },
+    {
+      "id": 37,
+      "japanese": "はこねびじゅつかん (箱根美術館)",
+      "romaji": "hakone bijutsukan",
+      "translation": "箱根美术馆",
+      "exampleSentence": "箱根美術館に行きました。"
+    },
+    {
+      "id": 38,
+      "japanese": "どうも",
+      "romaji": "doumo",
+      "translation": "非常/很",
+      "exampleSentence": "どうもありがとうございます。"
+    },
+    {
+      "id": 39,
+      "japanese": "おかげさまで",
+      "romaji": "okagesama de",
+      "translation": "托您的福",
+      "exampleSentence": "おかげさまで元気です。"
+    },
+    {
+      "id": 40,
+      "japanese": "よかったです",
+      "romaji": "yokatta desu",
+      "translation": "太好了",
+      "exampleSentence": "よかったですね。"
+    },
+    {
+      "id": 41,
+      "japanese": "ええ",
+      "romaji": "ee",
+      "translation": "是的/嗯",
+      "exampleSentence": "ええ、そうです。"
+    },
+    {
+      "id": 42,
+      "japanese": "わかりました (分かりました)",
+      "romaji": "wakarimashita",
+      "translation": "明白了/知道了",
+      "exampleSentence": "わかりました。"
+    },
+    {
+      "id": 43,
+      "japanese": "しゃちょう (社長)",
+      "romaji": "shachou",
+      "translation": "社长/总经理",
+      "exampleSentence": "社長に会います。"
+    },
+    {
+      "id": 44,
+      "japanese": "ぶちょう (部長)",
+      "romaji": "buchou",
+      "translation": "部长",
+      "exampleSentence": "部長は会議中です。"
+    },
+    {
+      "id": 45,
+      "japanese": "かちょう (課長)",
+      "romaji": "kachou",
+      "translation": "科长/课长",
+      "exampleSentence": "課長に報告します。"
+    },
+    {
+      "id": 46,
+      "japanese": "おねがいします (お願いします)",
+      "romaji": "onegai shimasu",
+      "translation": "拜托了/请",
+      "exampleSentence": "よろしくお願いします。"
+    },
+    {
+      "id": 47,
+      "japanese": "どういたしまして",
+      "romaji": "douitashimashite",
+      "translation": "不客气",
+      "exampleSentence": "どういたしまして。"
+    },
+    {
+      "id": 48,
+      "japanese": "それで",
+      "romaji": "sorede",
+      "translation": "所以/然后",
+      "exampleSentence": "それで、どうしましたか。"
+    },
+    {
+      "id": 49,
+      "japanese": "～さん",
+      "romaji": "~san",
+      "translation": "~先生/~小姐(尊称)",
+      "exampleSentence": "田中さん"
+    },
+    {
+      "id": 50,
+      "japanese": "～ちゃん",
+      "romaji": "~chan",
+      "translation": "~(亲昵称呼)",
+      "exampleSentence": "花ちゃん"
+    },
+    {
+      "id": 51,
+      "japanese": "～くん",
+      "romaji": "~kun",
+      "translation": "~君(对男性)",
+      "exampleSentence": "山田くん"
+    },
+    {
+      "id": 52,
+      "japanese": "～さま (～様)",
+      "romaji": "~sama",
+      "translation": "~先生/~小姐(更尊敬)",
+      "exampleSentence": "お客様"
+    },
+    {
+      "id": 53,
+      "japanese": "お～",
+      "romaji": "o~",
+      "translation": "敬语前缀",
+      "exampleSentence": "お名前は何ですか。"
+    },
+    {
+      "id": 54,
+      "japanese": "ご～",
+      "romaji": "go~",
+      "translation": "敬语前缀",
+      "exampleSentence": "ご家族は何人ですか。"
+    }
+  ]
+}

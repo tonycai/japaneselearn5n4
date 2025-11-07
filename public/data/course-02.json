@@ -1,0 +1,399 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 2,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "ほん (本)",
+      "romaji": "hon",
+      "translation": "书",
+      "exampleSentence": "これは日本語の本です。"
+    },
+    {
+      "id": 2,
+      "japanese": "かばん",
+      "romaji": "kaban",
+      "translation": "包",
+      "exampleSentence": "私のかばんは黒いです。"
+    },
+    {
+      "id": 3,
+      "japanese": "ノート",
+      "romaji": "nooto",
+      "translation": "笔记本",
+      "exampleSentence": "ノートに名前を書きます。"
+    },
+    {
+      "id": 4,
+      "japanese": "えんぴつ (鉛筆)",
+      "romaji": "enpitsu",
+      "translation": "铅笔",
+      "exampleSentence": "鉛筆で書いてください。"
+    },
+    {
+      "id": 5,
+      "japanese": "かさ (傘)",
+      "romaji": "kasa",
+      "translation": "伞",
+      "exampleSentence": "雨が降るので傘を持ちます。"
+    },
+    {
+      "id": 6,
+      "japanese": "くつ (靴)",
+      "romaji": "kutsu",
+      "translation": "鞋",
+      "exampleSentence": "新しい靴を買いました。"
+    },
+    {
+      "id": 7,
+      "japanese": "しんぶん (新聞)",
+      "romaji": "shinbun",
+      "translation": "报纸",
+      "exampleSentence": "毎朝新聞を読みます。"
+    },
+    {
+      "id": 8,
+      "japanese": "ざっし (雑誌)",
+      "romaji": "zasshi",
+      "translation": "杂志",
+      "exampleSentence": "ファッション雑誌を買いました。"
+    },
+    {
+      "id": 9,
+      "japanese": "じしょ (辞書)",
+      "romaji": "jisho",
+      "translation": "词典",
+      "exampleSentence": "辞書で言葉を調べます。"
+    },
+    {
+      "id": 10,
+      "japanese": "カメラ",
+      "romaji": "kamera",
+      "translation": "相机",
+      "exampleSentence": "このカメラは日本製です。"
+    },
+    {
+      "id": 11,
+      "japanese": "テレビ",
+      "romaji": "terebi",
+      "translation": "电视",
+      "exampleSentence": "毎晩テレビを見ます。"
+    },
+    {
+      "id": 12,
+      "japanese": "パソコン",
+      "romaji": "pasokon",
+      "translation": "电脑",
+      "exampleSentence": "パソコンで仕事をします。"
+    },
+    {
+      "id": 13,
+      "japanese": "ラジオ",
+      "romaji": "rajio",
+      "translation": "收音机",
+      "exampleSentence": "車でラジオを聞きます。"
+    },
+    {
+      "id": 14,
+      "japanese": "でんわ (電話)",
+      "romaji": "denwa",
+      "translation": "电话",
+      "exampleSentence": "友達に電話をかけます。"
+    },
+    {
+      "id": 15,
+      "japanese": "つくえ (机)",
+      "romaji": "tsukue",
+      "translation": "桌子",
+      "exampleSentence": "机の上に本があります。"
+    },
+    {
+      "id": 16,
+      "japanese": "いす",
+      "romaji": "isu",
+      "translation": "椅子",
+      "exampleSentence": "いすに座ってください。"
+    },
+    {
+      "id": 17,
+      "japanese": "かぎ",
+      "romaji": "kagi",
+      "translation": "钥匙",
+      "exampleSentence": "部屋の鍵をなくしました。"
+    },
+    {
+      "id": 18,
+      "japanese": "とけい (時計)",
+      "romaji": "tokei",
+      "translation": "手表/钟表",
+      "exampleSentence": "この時計は高いです。"
+    },
+    {
+      "id": 19,
+      "japanese": "てちょう (手帳)",
+      "romaji": "techou",
+      "translation": "记事本",
+      "exampleSentence": "手帳にスケジュールを書きます。"
+    },
+    {
+      "id": 20,
+      "japanese": "しゃしん (写真)",
+      "romaji": "shashin",
+      "translation": "照片",
+      "exampleSentence": "写真を撮りましょう。"
+    },
+    {
+      "id": 21,
+      "japanese": "くるま (車)",
+      "romaji": "kuruma",
+      "translation": "车",
+      "exampleSentence": "新しい車を買いました。"
+    },
+    {
+      "id": 22,
+      "japanese": "じてんしゃ (自転車)",
+      "romaji": "jitensha",
+      "translation": "自行车",
+      "exampleSentence": "自転車で学校へ行きます。"
+    },
+    {
+      "id": 23,
+      "japanese": "おみやげ (お土産)",
+      "romaji": "omiyage",
+      "translation": "特产/纪念品",
+      "exampleSentence": "お土産を買いました。"
+    },
+    {
+      "id": 24,
+      "japanese": "めいさんひん (名産品)",
+      "romaji": "meisanhin",
+      "translation": "名产",
+      "exampleSentence": "この名産品は有名です。"
+    },
+    {
+      "id": 25,
+      "japanese": "シルク",
+      "romaji": "shiruku",
+      "translation": "丝绸",
+      "exampleSentence": "シルクのスカーフです。"
+    },
+    {
+      "id": 26,
+      "japanese": "ハンカチ",
+      "romaji": "hankachi",
+      "translation": "手帕",
+      "exampleSentence": "ハンカチを持っていますか。"
+    },
+    {
+      "id": 27,
+      "japanese": "かいしゃ (会社)",
+      "romaji": "kaisha",
+      "translation": "公司",
+      "exampleSentence": "会社は東京にあります。"
+    },
+    {
+      "id": 28,
+      "japanese": "かた (方)",
+      "romaji": "kata",
+      "translation": "位(敬语)",
+      "exampleSentence": "あの方はどなたですか。"
+    },
+    {
+      "id": 29,
+      "japanese": "ひと (人)",
+      "romaji": "hito",
+      "translation": "人",
+      "exampleSentence": "あの人は先生です。"
+    },
+    {
+      "id": 30,
+      "japanese": "かぞく (家族)",
+      "romaji": "kazoku",
+      "translation": "家人/家庭",
+      "exampleSentence": "家族は4人です。"
+    },
+    {
+      "id": 31,
+      "japanese": "はは (母)",
+      "romaji": "haha",
+      "translation": "母亲(谦称)",
+      "exampleSentence": "母は料理が上手です。"
+    },
+    {
+      "id": 32,
+      "japanese": "おかあさん (お母さん)",
+      "romaji": "okaasan",
+      "translation": "母亲(尊称)",
+      "exampleSentence": "お母さんはお元気ですか。"
+    },
+    {
+      "id": 33,
+      "japanese": "にほんご (日本語)",
+      "romaji": "nihongo",
+      "translation": "日语",
+      "exampleSentence": "日本語を勉強します。"
+    },
+    {
+      "id": 34,
+      "japanese": "ちゅうごくご (中国語)",
+      "romaji": "chuugokugo",
+      "translation": "中文",
+      "exampleSentence": "中国語が話せますか。"
+    },
+    {
+      "id": 35,
+      "japanese": "これ",
+      "romaji": "kore",
+      "translation": "这个",
+      "exampleSentence": "これは私の本です。"
+    },
+    {
+      "id": 36,
+      "japanese": "それ",
+      "romaji": "sore",
+      "translation": "那个",
+      "exampleSentence": "それは何ですか。"
+    },
+    {
+      "id": 37,
+      "japanese": "あれ",
+      "romaji": "are",
+      "translation": "那个(远处)",
+      "exampleSentence": "あれは富士山です。"
+    },
+    {
+      "id": 38,
+      "japanese": "どれ",
+      "romaji": "dore",
+      "translation": "哪个",
+      "exampleSentence": "どれがあなたのですか。"
+    },
+    {
+      "id": 39,
+      "japanese": "なん (何)",
+      "romaji": "nan",
+      "translation": "什么",
+      "exampleSentence": "これは何ですか。"
+    },
+    {
+      "id": 40,
+      "japanese": "だれ",
+      "romaji": "dare",
+      "translation": "谁",
+      "exampleSentence": "あの人は誰ですか。"
+    },
+    {
+      "id": 41,
+      "japanese": "どなた",
+      "romaji": "donata",
+      "translation": "哪位(敬语)",
+      "exampleSentence": "あの方はどなたですか。"
+    },
+    {
+      "id": 42,
+      "japanese": "この",
+      "romaji": "kono",
+      "translation": "这个",
+      "exampleSentence": "この本は面白いです。"
+    },
+    {
+      "id": 43,
+      "japanese": "その",
+      "romaji": "sono",
+      "translation": "那个",
+      "exampleSentence": "その鞄は誰のですか。"
+    },
+    {
+      "id": 44,
+      "japanese": "あの",
+      "romaji": "ano",
+      "translation": "那个(远处)",
+      "exampleSentence": "あの人は先生です。"
+    },
+    {
+      "id": 45,
+      "japanese": "どの",
+      "romaji": "dono",
+      "translation": "哪个",
+      "exampleSentence": "どの人が田中さんですか。"
+    },
+    {
+      "id": 46,
+      "japanese": "えっ",
+      "romaji": "e",
+      "translation": "诶(惊讶)",
+      "exampleSentence": "えっ、本当ですか。"
+    },
+    {
+      "id": 47,
+      "japanese": "わあ",
+      "romaji": "waa",
+      "translation": "哇(惊叹)",
+      "exampleSentence": "わあ、きれいですね。"
+    },
+    {
+      "id": 48,
+      "japanese": "ええ",
+      "romaji": "ee",
+      "translation": "是的/嗯",
+      "exampleSentence": "ええ、そうです。"
+    },
+    {
+      "id": 49,
+      "japanese": "ながしま (長島)",
+      "romaji": "nagashima",
+      "translation": "长岛",
+      "exampleSentence": "長島さんは日本人です。"
+    },
+    {
+      "id": 50,
+      "japanese": "にほん (日本)",
+      "romaji": "nihon",
+      "translation": "日本",
+      "exampleSentence": "日本へ行きたいです。"
+    },
+    {
+      "id": 51,
+      "japanese": "スワトウ",
+      "romaji": "suwatou",
+      "translation": "汕头",
+      "exampleSentence": "スワトウは中国の都市です。"
+    },
+    {
+      "id": 52,
+      "japanese": "ロンドン",
+      "romaji": "rondon",
+      "translation": "伦敦",
+      "exampleSentence": "ロンドンはイギリスの首都です。"
+    },
+    {
+      "id": 53,
+      "japanese": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "translation": "谢谢",
+      "exampleSentence": "ありがとうございます。"
+    },
+    {
+      "id": 54,
+      "japanese": "おいくつ",
+      "romaji": "oikutsu",
+      "translation": "多大年纪",
+      "exampleSentence": "おいくつですか。"
+    },
+    {
+      "id": 55,
+      "japanese": "～さい (～歳)",
+      "romaji": "~sai",
+      "translation": "~岁",
+      "exampleSentence": "私は20歳です。"
+    },
+    {
+      "id": 56,
+      "japanese": "なんさい (何歳)",
+      "romaji": "nansai",
+      "translation": "几岁",
+      "exampleSentence": "何歳ですか。"
+    }
+  ]
+}

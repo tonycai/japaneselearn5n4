@@ -1,0 +1,343 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 9,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "りょうり (料理)",
+      "romaji": "ryouri",
+      "translation": "料理/菜肴",
+      "exampleSentence": "料理を作ります。"
+    },
+    {
+      "id": 2,
+      "japanese": "しせんりょうり (四川料理)",
+      "romaji": "shisen ryouri",
+      "translation": "四川菜",
+      "exampleSentence": "四川料理は辛いです。"
+    },
+    {
+      "id": 3,
+      "japanese": "たまご (卵)",
+      "romaji": "tamago",
+      "translation": "鸡蛋",
+      "exampleSentence": "卵を買います。"
+    },
+    {
+      "id": 4,
+      "japanese": "スープ",
+      "romaji": "suupu",
+      "translation": "汤",
+      "exampleSentence": "スープを飲みます。"
+    },
+    {
+      "id": 5,
+      "japanese": "パン",
+      "romaji": "pan",
+      "translation": "面包",
+      "exampleSentence": "パンを買います。"
+    },
+    {
+      "id": 6,
+      "japanese": "ごはん (ご飯)",
+      "romaji": "gohan",
+      "translation": "米饭/饭",
+      "exampleSentence": "ご飯を食べます。"
+    },
+    {
+      "id": 7,
+      "japanese": "ラーメン",
+      "romaji": "raamen",
+      "translation": "拉面",
+      "exampleSentence": "ラーメンが好きです。"
+    },
+    {
+      "id": 8,
+      "japanese": "ぎょうざ (餃子)",
+      "romaji": "gyouza",
+      "translation": "饺子",
+      "exampleSentence": "餃子を食べます。"
+    },
+    {
+      "id": 9,
+      "japanese": "にく (肉)",
+      "romaji": "niku",
+      "translation": "肉",
+      "exampleSentence": "肉が好きです。"
+    },
+    {
+      "id": 10,
+      "japanese": "とり (鶏)",
+      "romaji": "tori",
+      "translation": "鸡/鸡肉",
+      "exampleSentence": "鶏肉を食べます。"
+    },
+    {
+      "id": 11,
+      "japanese": "ぶた (豚)",
+      "romaji": "buta",
+      "translation": "猪/猪肉",
+      "exampleSentence": "豚肉を食べます。"
+    },
+    {
+      "id": 12,
+      "japanese": "やさい (野菜)",
+      "romaji": "yasai",
+      "translation": "蔬菜",
+      "exampleSentence": "野菜は健康にいいです。"
+    },
+    {
+      "id": 13,
+      "japanese": "くだもの (果物)",
+      "romaji": "kudamono",
+      "translation": "水果",
+      "exampleSentence": "果物が好きです。"
+    },
+    {
+      "id": 14,
+      "japanese": "さしみ (刺し身)",
+      "romaji": "sashimi",
+      "translation": "生鱼片",
+      "exampleSentence": "刺し身を食べます。"
+    },
+    {
+      "id": 15,
+      "japanese": "すし",
+      "romaji": "sushi",
+      "translation": "寿司",
+      "exampleSentence": "すしが好きです。"
+    },
+    {
+      "id": 16,
+      "japanese": "てんぷら",
+      "romaji": "tenpura",
+      "translation": "天妇罗",
+      "exampleSentence": "てんぷらを食べます。"
+    },
+    {
+      "id": 17,
+      "japanese": "カレー",
+      "romaji": "karee",
+      "translation": "咖喱",
+      "exampleSentence": "カレーライスを食べます。"
+    },
+    {
+      "id": 18,
+      "japanese": "ぎゅうにく (牛肉)",
+      "romaji": "gyuuniku",
+      "translation": "牛肉",
+      "exampleSentence": "牛肉を食べます。"
+    },
+    {
+      "id": 19,
+      "japanese": "（お）さけ (（お）酒)",
+      "romaji": "(o)sake",
+      "translation": "(日本)清酒/酒",
+      "exampleSentence": "お酒を飲みます。"
+    },
+    {
+      "id": 20,
+      "japanese": "ビール",
+      "romaji": "biiru",
+      "translation": "啤酒",
+      "exampleSentence": "ビールを飲みます。"
+    },
+    {
+      "id": 21,
+      "japanese": "ワイン",
+      "romaji": "wain",
+      "translation": "葡萄酒/红酒",
+      "exampleSentence": "ワインが好きです。"
+    },
+    {
+      "id": 22,
+      "japanese": "ジュース",
+      "romaji": "juusu",
+      "translation": "果汁/饮料",
+      "exampleSentence": "ジュースをください。"
+    },
+    {
+      "id": 23,
+      "japanese": "（お）ちゃ (（お）茶)",
+      "romaji": "(o)cha",
+      "translation": "茶",
+      "exampleSentence": "お茶を飲みます。"
+    },
+    {
+      "id": 24,
+      "japanese": "こうちゃ (紅茶)",
+      "romaji": "koucha",
+      "translation": "红茶",
+      "exampleSentence": "紅茶が好きです。"
+    },
+    {
+      "id": 25,
+      "japanese": "コーヒー",
+      "romaji": "koohii",
+      "translation": "咖啡",
+      "exampleSentence": "コーヒーを飲みます。"
+    },
+    {
+      "id": 26,
+      "japanese": "スポーツ",
+      "romaji": "supootsu",
+      "translation": "运动/体育",
+      "exampleSentence": "スポーツが好きです。"
+    },
+    {
+      "id": 27,
+      "japanese": "すいえい (水泳)",
+      "romaji": "suiei",
+      "translation": "游泳",
+      "exampleSentence": "水泳をします。"
+    },
+    {
+      "id": 28,
+      "japanese": "ダンス",
+      "romaji": "dansu",
+      "translation": "跳舞/舞蹈",
+      "exampleSentence": "ダンスをします。"
+    },
+    {
+      "id": 29,
+      "japanese": "からい (辛い)",
+      "romaji": "karai",
+      "translation": "辣",
+      "exampleSentence": "この料理は辛いです。"
+    },
+    {
+      "id": 30,
+      "japanese": "あまい (甘い)",
+      "romaji": "amai",
+      "translation": "甜",
+      "exampleSentence": "ケーキは甘いです。"
+    },
+    {
+      "id": 31,
+      "japanese": "すっぱい (酸っぱい)",
+      "romaji": "suppai",
+      "translation": "酸",
+      "exampleSentence": "レモンは酸っぱいです。"
+    },
+    {
+      "id": 32,
+      "japanese": "しょっぱい",
+      "romaji": "shoppai",
+      "translation": "咸",
+      "exampleSentence": "この料理はしょっぱいです。"
+    },
+    {
+      "id": 33,
+      "japanese": "にがい (苦い)",
+      "romaji": "nigai",
+      "translation": "苦",
+      "exampleSentence": "コーヒーは苦いです。"
+    },
+    {
+      "id": 34,
+      "japanese": "おいしい",
+      "romaji": "oishii",
+      "translation": "好吃/美味",
+      "exampleSentence": "この料理はおいしいです。"
+    },
+    {
+      "id": 35,
+      "japanese": "まずい",
+      "romaji": "mazui",
+      "translation": "难吃",
+      "exampleSentence": "この料理はまずいです。"
+    },
+    {
+      "id": 36,
+      "japanese": "すき (好き)",
+      "romaji": "suki",
+      "translation": "喜欢",
+      "exampleSentence": "すしが好きです。"
+    },
+    {
+      "id": 37,
+      "japanese": "きらい (嫌い)",
+      "romaji": "kirai",
+      "translation": "讨厌/不喜欢",
+      "exampleSentence": "野菜が嫌いです。"
+    },
+    {
+      "id": 38,
+      "japanese": "じょうず (上手)",
+      "romaji": "jouzu",
+      "translation": "擅长/做得好",
+      "exampleSentence": "日本語が上手です。"
+    },
+    {
+      "id": 39,
+      "japanese": "へた (下手)",
+      "romaji": "heta",
+      "translation": "不擅长/做得不好",
+      "exampleSentence": "料理が下手です。"
+    },
+    {
+      "id": 40,
+      "japanese": "ときどき (時々)",
+      "romaji": "tokidoki",
+      "translation": "有时/偶尔",
+      "exampleSentence": "時々映画を見ます。"
+    },
+    {
+      "id": 41,
+      "japanese": "よく",
+      "romaji": "yoku",
+      "translation": "经常/好好地",
+      "exampleSentence": "よく勉強します。"
+    },
+    {
+      "id": 42,
+      "japanese": "あまり",
+      "romaji": "amari",
+      "translation": "不太/不怎么",
+      "exampleSentence": "あまり食べません。"
+    },
+    {
+      "id": 43,
+      "japanese": "ぜんぜん (全然)",
+      "romaji": "zenzen",
+      "translation": "完全不/一点也不",
+      "exampleSentence": "全然分かりません。"
+    },
+    {
+      "id": 44,
+      "japanese": "いただきます",
+      "romaji": "itadakimasu",
+      "translation": "我开动了(饭前说)",
+      "exampleSentence": "いただきます。"
+    },
+    {
+      "id": 45,
+      "japanese": "ごちそうさまでした",
+      "romaji": "gochisousama deshita",
+      "translation": "多谢款待(饭后说)",
+      "exampleSentence": "ごちそうさまでした。"
+    },
+    {
+      "id": 46,
+      "japanese": "～さん",
+      "romaji": "~san",
+      "translation": "~先生/~小姐(尊称)",
+      "exampleSentence": "田中さん"
+    },
+    {
+      "id": 47,
+      "japanese": "～ちゃん",
+      "romaji": "~chan",
+      "translation": "~(亲昵称呼)",
+      "exampleSentence": "花ちゃん"
+    },
+    {
+      "id": 48,
+      "japanese": "～くん (～君)",
+      "romaji": "~kun",
+      "translation": "~君(对男性)",
+      "exampleSentence": "山田くん"
+    }
+  ]
+}

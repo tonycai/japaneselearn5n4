@@ -1,0 +1,29 @@
+{
+  "name": "Japanese Learn - Learn to earn, you deserve a better life",
+  "short_name": "Japanese Learn",
+  "description": "Comprehensive Japanese vocabulary courses for Chinese-speaking students with audio and flashcards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EECE",
+  "theme_color": "#6B4F2E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "language", "learning"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "screenshots": []
+}

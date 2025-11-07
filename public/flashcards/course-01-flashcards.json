@@ -1,0 +1,162 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 1,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "わたし",
+      "romaji": "watashi",
+      "translation": "我",
+      "exampleSentence": "わたしは学生です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 2,
+      "japanese": "あなた",
+      "romaji": "anata",
+      "translation": "你",
+      "exampleSentence": "あなたは先生ですか。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 3,
+      "japanese": "あのひと (あの人)",
+      "romaji": "ano hito",
+      "translation": "那个人",
+      "exampleSentence": "あの人は誰ですか。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 4,
+      "japanese": "李さん",
+      "romaji": "ri-san",
+      "translation": "李先生/小姐",
+      "exampleSentence": "李さんは中国人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 5,
+      "japanese": "ちゅうごくじん",
+      "romaji": "chuugokujin",
+      "translation": "中国人",
+      "exampleSentence": "私は中国人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 6,
+      "japanese": "にほんじん",
+      "romaji": "nihonjin",
+      "translation": "日本人",
+      "exampleSentence": "田中さんは日本人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 7,
+      "japanese": "かんこくじん",
+      "romaji": "kankokujin",
+      "translation": "韩国人",
+      "exampleSentence": "金さんは韓国人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 8,
+      "japanese": "アメリカじん",
+      "romaji": "amerikajin",
+      "translation": "美国人",
+      "exampleSentence": "スミスさんはアメリカ人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 9,
+      "japanese": "フランスじん",
+      "romaji": "furansujin",
+      "translation": "法国人",
+      "exampleSentence": "マリーさんはフランス人です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 10,
+      "japanese": "がくせい",
+      "romaji": "gakusei",
+      "translation": "学生",
+      "exampleSentence": "私は大学の学生です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 11,
+      "japanese": "せんせい",
+      "romaji": "sensei",
+      "translation": "老师",
+      "exampleSentence": "山田先生は日本語の先生です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 12,
+      "japanese": "りゅうがくせい",
+      "romaji": "ryuugakusei",
+      "translation": "留学生",
+      "exampleSentence": "王さんは留学生です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 13,
+      "japanese": "きょうじゅ",
+      "romaji": "kyouju",
+      "translation": "教授",
+      "exampleSentence": "佐藤教授は有名です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 14,
+      "japanese": "しゃいん",
+      "romaji": "shain",
+      "translation": "职员",
+      "exampleSentence": "彼は会社の社員です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 15,
+      "japanese": "かいしゃいん",
+      "romaji": "kaishain",
+      "translation": "公司职员",
+      "exampleSentence": "父は会社員です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 16,
+      "japanese": "てんいん",
+      "romaji": "ten'in",
+      "translation": "店员",
+      "exampleSentence": "あの店員さんは親切です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    },
+    {
+      "id": 17,
+      "japanese": "けんしゅうせい",
+      "romaji": "kenshuusei",
+      "translation": "研修生",
+      "exampleSentence": "リーさんは研修生です。",
+      "mnemonic": "生成失败，请手动添加",
+      "additionalExamples": []
+    }
+  ],
+  "flashcardVersion": "1.0",
+  "generatedBy": "Gemini API Flashcard Generator"
+}

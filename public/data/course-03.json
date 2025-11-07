@@ -1,0 +1,329 @@
+{
+  "courseTitle": "Japanese Words - Course 01 - 10",
+  "courseNumber": 3,
+  "targetAudience": "Chinese-speaking students",
+  "vocabularyList": [
+    {
+      "id": 1,
+      "japanese": "デパート",
+      "romaji": "depaato",
+      "translation": "百货商店",
+      "exampleSentence": "デパートで買い物をします。"
+    },
+    {
+      "id": 2,
+      "japanese": "しょくどう (食堂)",
+      "romaji": "shokudou",
+      "translation": "食堂",
+      "exampleSentence": "食堂でご飯を食べます。"
+    },
+    {
+      "id": 3,
+      "japanese": "ゆうびんきょく (郵便局)",
+      "romaji": "yuubinkyoku",
+      "translation": "邮局",
+      "exampleSentence": "郵便局で手紙を出します。"
+    },
+    {
+      "id": 4,
+      "japanese": "ぎんこう (銀行)",
+      "romaji": "ginkou",
+      "translation": "银行",
+      "exampleSentence": "銀行でお金を下ろします。"
+    },
+    {
+      "id": 5,
+      "japanese": "としょかん (図書館)",
+      "romaji": "toshokan",
+      "translation": "图书馆",
+      "exampleSentence": "図書館で本を借ります。"
+    },
+    {
+      "id": 6,
+      "japanese": "マンション",
+      "romaji": "manshon",
+      "translation": "公寓",
+      "exampleSentence": "マンションに住んでいます。"
+    },
+    {
+      "id": 7,
+      "japanese": "ホテル",
+      "romaji": "hoteru",
+      "translation": "酒店/宾馆",
+      "exampleSentence": "ホテルに泊まります。"
+    },
+    {
+      "id": 8,
+      "japanese": "コンビニ",
+      "romaji": "konbini",
+      "translation": "便利店",
+      "exampleSentence": "コンビニでお弁当を買います。"
+    },
+    {
+      "id": 9,
+      "japanese": "きっさてん (喫茶店)",
+      "romaji": "kissaten",
+      "translation": "咖啡店",
+      "exampleSentence": "喫茶店でコーヒーを飲みます。"
+    },
+    {
+      "id": 10,
+      "japanese": "びょういん (病院)",
+      "romaji": "byouin",
+      "translation": "医院",
+      "exampleSentence": "病院へ行きます。"
+    },
+    {
+      "id": 11,
+      "japanese": "ほんや (本屋)",
+      "romaji": "hon'ya",
+      "translation": "书店",
+      "exampleSentence": "本屋で雑誌を買います。"
+    },
+    {
+      "id": 12,
+      "japanese": "レストラン",
+      "romaji": "resutoran",
+      "translation": "餐厅",
+      "exampleSentence": "レストランで食事をします。"
+    },
+    {
+      "id": 13,
+      "japanese": "ビル",
+      "romaji": "biru",
+      "translation": "大楼",
+      "exampleSentence": "ビルの5階に会社があります。"
+    },
+    {
+      "id": 14,
+      "japanese": "たてもの (建物)",
+      "romaji": "tatemono",
+      "translation": "建筑物",
+      "exampleSentence": "古い建物です。"
+    },
+    {
+      "id": 15,
+      "japanese": "うりば (売り場)",
+      "romaji": "uriba",
+      "translation": "卖场/柜台",
+      "exampleSentence": "靴売り場は2階です。"
+    },
+    {
+      "id": 16,
+      "japanese": "トイレ",
+      "romaji": "toire",
+      "translation": "厕所/卫生间",
+      "exampleSentence": "トイレはどこですか。"
+    },
+    {
+      "id": 17,
+      "japanese": "いりぐち (入り口)",
+      "romaji": "iriguchi",
+      "translation": "入口",
+      "exampleSentence": "入り口はあちらです。"
+    },
+    {
+      "id": 18,
+      "japanese": "じむしょ (事務所)",
+      "romaji": "jimusho",
+      "translation": "办公室/事务所",
+      "exampleSentence": "事務所は3階にあります。"
+    },
+    {
+      "id": 19,
+      "japanese": "うけつけ (受付)",
+      "romaji": "uketsuke",
+      "translation": "接待处/前台",
+      "exampleSentence": "受付で聞いてください。"
+    },
+    {
+      "id": 20,
+      "japanese": "バーゲンかいじょう (～会場)",
+      "romaji": "baagen kaijou",
+      "translation": "特卖会场",
+      "exampleSentence": "バーゲン会場は地下です。"
+    },
+    {
+      "id": 21,
+      "japanese": "エスカレーター",
+      "romaji": "esukareetaa",
+      "translation": "自动扶梯",
+      "exampleSentence": "エスカレーターで2階へ行きます。"
+    },
+    {
+      "id": 22,
+      "japanese": "ふく (服)",
+      "romaji": "fuku",
+      "translation": "衣服",
+      "exampleSentence": "新しい服を買いました。"
+    },
+    {
+      "id": 23,
+      "japanese": "コート",
+      "romaji": "kooto",
+      "translation": "外套/大衣",
+      "exampleSentence": "コートを着ます。"
+    },
+    {
+      "id": 24,
+      "japanese": "デジカメ",
+      "romaji": "dejikame",
+      "translation": "数码相机",
+      "exampleSentence": "デジカメで写真を撮ります。"
+    },
+    {
+      "id": 25,
+      "japanese": "くに (国)",
+      "romaji": "kuni",
+      "translation": "国家",
+      "exampleSentence": "どこの国の人ですか。"
+    },
+    {
+      "id": 26,
+      "japanese": "ちず (地図)",
+      "romaji": "chizu",
+      "translation": "地图",
+      "exampleSentence": "地図を見てください。"
+    },
+    {
+      "id": 27,
+      "japanese": "となり (隣)",
+      "romaji": "tonari",
+      "translation": "旁边/隔壁",
+      "exampleSentence": "となりに座ります。"
+    },
+    {
+      "id": 28,
+      "japanese": "しゅうへん (周辺)",
+      "romaji": "shuuhen",
+      "translation": "周边",
+      "exampleSentence": "駅の周辺に店が多いです。"
+    },
+    {
+      "id": 29,
+      "japanese": "きょう (今日)",
+      "romaji": "kyou",
+      "translation": "今天",
+      "exampleSentence": "今日は暑いです。"
+    },
+    {
+      "id": 30,
+      "japanese": "すいようび (水曜日)",
+      "romaji": "suiyoubi",
+      "translation": "星期三",
+      "exampleSentence": "水曜日に会議があります。"
+    },
+    {
+      "id": 31,
+      "japanese": "もくようび (木曜日)",
+      "romaji": "mokuyoubi",
+      "translation": "星期四",
+      "exampleSentence": "木曜日は休みです。"
+    },
+    {
+      "id": 32,
+      "japanese": "ここ",
+      "romaji": "koko",
+      "translation": "这里",
+      "exampleSentence": "ここはどこですか。"
+    },
+    {
+      "id": 33,
+      "japanese": "そこ",
+      "romaji": "soko",
+      "translation": "那里",
+      "exampleSentence": "そこに座ってください。"
+    },
+    {
+      "id": 34,
+      "japanese": "あそこ",
+      "romaji": "asoko",
+      "translation": "那里(远处)",
+      "exampleSentence": "あそこがトイレです。"
+    },
+    {
+      "id": 35,
+      "japanese": "こちら",
+      "romaji": "kochira",
+      "translation": "这边",
+      "exampleSentence": "こちらへどうぞ。"
+    },
+    {
+      "id": 36,
+      "japanese": "そちら",
+      "romaji": "sochira",
+      "translation": "那边",
+      "exampleSentence": "そちらは何ですか。"
+    },
+    {
+      "id": 37,
+      "japanese": "あちら",
+      "romaji": "achira",
+      "translation": "那边(远处)",
+      "exampleSentence": "受付はあちらです。"
+    },
+    {
+      "id": 38,
+      "japanese": "どこ",
+      "romaji": "doko",
+      "translation": "哪里",
+      "exampleSentence": "トイレはどこですか。"
+    },
+    {
+      "id": 39,
+      "japanese": "どちら",
+      "romaji": "dochira",
+      "translation": "哪边/哪位(敬语)",
+      "exampleSentence": "お国はどちらですか。"
+    },
+    {
+      "id": 40,
+      "japanese": "あのう",
+      "romaji": "anou",
+      "translation": "那个/请问",
+      "exampleSentence": "あのう、すみません。"
+    },
+    {
+      "id": 41,
+      "japanese": "シャンハイ (上海)",
+      "romaji": "shanhai",
+      "translation": "上海",
+      "exampleSentence": "上海は中国の都市です。"
+    },
+    {
+      "id": 42,
+      "japanese": "とうきょう (東京)",
+      "romaji": "toukyou",
+      "translation": "东京",
+      "exampleSentence": "東京は日本の首都です。"
+    },
+    {
+      "id": 43,
+      "japanese": "いくら",
+      "romaji": "ikura",
+      "translation": "多少钱",
+      "exampleSentence": "これはいくらですか。"
+    },
+    {
+      "id": 44,
+      "japanese": "～かい (～階)",
+      "romaji": "~kai",
+      "translation": "~楼/~层",
+      "exampleSentence": "5階に行きます。"
+    },
+    {
+      "id": 45,
+      "japanese": "～えん (～円)",
+      "romaji": "~en",
+      "translation": "~日元",
+      "exampleSentence": "500円です。"
+    },
+    {
+      "id": 46,
+      "japanese": "お～",
+      "romaji": "o~",
+      "translation": "敬语前缀",
+      "exampleSentence": "お名前は何ですか。"
+    }
+  ]
+}
