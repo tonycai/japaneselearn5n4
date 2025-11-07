@@ -8,7 +8,7 @@ A modern, mobile-friendly web application for learning Japanese vocabulary with 
 
 ## Features
 
-- **Course Listing**: Browse through 11 Japanese language courses (Course 0: Hiragana/Katakana + Courses 1-10: Vocabulary)
+- **Course Listing**: Browse through 11 Japanese language courses (Course あ: Hiragana/Katakana + Courses 1-10: Vocabulary)
 - **Kana Course**: Special foundational course for learning Hiragana and Katakana (104 characters)
 - **Interactive Vocabulary**: View vocabulary with Japanese text, romaji, translations, and example sentences
 - **Audio Player**: Listen to high-quality TTS audio for each course (supports multi-part audio files)
@@ -176,7 +176,7 @@ japanese-study-web/
 ## Features in Detail
 
 ### Course Listing Page
-- Shows all 11 available courses (Course 0: Hiragana/Katakana + Courses 1-10: Vocabulary)
+- Shows all 11 available courses (Course あ: Hiragana/Katakana + Courses 1-10: Vocabulary)
 - Displays course statistics (total courses, vocabulary count, audio availability)
 - Features section highlighting key learning benefits
 - Social media links in header and footer
@@ -209,7 +209,7 @@ japanese-study-web/
   - Progress bar and time display
   - Sticky player that stays visible while scrolling
 
-### Kana Course (Course 0)
+### Kana Course (Course あ)
 - **Special Foundation Course**: Learn all Hiragana and Katakana characters
 - **104 Characters**: Covers Gojūon (basic 50 sounds), Dakuon/Handakuon (voiced sounds), and Yōon (contracted sounds)
 - **Fast Paced**: 2.3-second intervals for efficient memorization
@@ -256,7 +256,7 @@ A Progressive Web App combines the best of web and native apps. It runs in a bro
 #### What Gets Cached?
 
 When you use the PWA, these resources are automatically cached for offline access:
-- ✅ All course pages (Course 0-10)
+- ✅ All course pages (Course あ-10)
 - ✅ Course data (JSON files with vocabulary)
 - ✅ Audio files (pronunciation audio for all courses)
 - ✅ Static assets (JavaScript, CSS, images)
@@ -480,7 +480,7 @@ See **[PWA.md](PWA.md)** for complete technical documentation, advanced configur
 - 📊 **Compact Progress Bar**: Ultra-minimal progress bar (1.5px height) fixed at footer top with no text labels for distraction-free learning
 - 🎯 **Optimized UI Layout**: Relocated progress bar from sticky section to footer for cleaner interface
 - 🏠 **Concise Navigation**: Updated header "Back to Courses" button to "Home" for better mobile screen fit
-- ✨ **Kana Course Added**: New Course 0 featuring all 104 Hiragana and Katakana characters
+- ✨ **Kana Course Added**: New Course あ featuring all 104 Hiragana and Katakana characters
 - 🚀 **Fixed Navigation Bar**: Previous/Next Course buttons always visible at bottom of screen
 - 📱 **Mobile-Optimized UI**: Responsive button labels (Prev/Next on mobile, full text on desktop)
 - 🎨 **Cleaner Interface**: Streamlined header design for better focus on learning content
@@ -490,7 +490,7 @@ See **[PWA.md](PWA.md)** for complete technical documentation, advanced configur
 - 📤 **Social Sharing**: Share your learning progress on social media
 
 ### Course Structure
-- **Course 0**: Hiragana and Katakana - The ABCs of Japanese (104 characters)
+- **Course あ**: Hiragana and Katakana - The ABCs of Japanese (104 characters)
 - **Course 1**: Personal pronouns and nationalities
 - **Course 2**: Common objects and demonstratives
 - **Course 3**: Places and locations

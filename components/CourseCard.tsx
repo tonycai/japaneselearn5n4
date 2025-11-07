@@ -17,7 +17,7 @@ export default function CourseCard({ course }: CourseCardProps) {
       <div className="flex items-start justify-between mb-4">
         <div className="flex-1">
           <h2 className="text-2xl font-bold text-gray-800 mb-2">
-            Course {course.courseNumber}
+            Course {course.courseNumber === 0 ? 'あ' : course.courseNumber}
           </h2>
           <p className="text-gray-600 text-sm mb-3">{description}</p>
         </div>

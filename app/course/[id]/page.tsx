@@ -289,7 +289,7 @@ export default function CoursePage() {
               />
               <div className="text-right">
                 <h1 className="text-2xl font-bold text-gray-900">
-                  Course {courseId}
+                  Course {courseId === 0 ? 'あ' : courseId}
                 </h1>
                 <p className="text-sm text-gray-600">{description}</p>
               </div>
@@ -325,7 +325,7 @@ export default function CoursePage() {
             </div>
             <div className="flex items-center space-x-4">
               <div className="bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold">
-                Course {courseId}
+                Course {courseId === 0 ? 'あ' : courseId}
               </div>
               {audioFiles.parts.length > 0 && (
                 <div className="bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold">
